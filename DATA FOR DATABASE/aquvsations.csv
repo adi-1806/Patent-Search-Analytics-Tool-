@@ -1,0 +1,1529 @@
+S.No,Company Name,Company profile,Country,Acquired Year,Acquired by
+1,NerveWire,IT consulting company offering financial services,USA,2003,Wipro
+2,New Logic,Semiconductor design services ,Austria,2005,Wipro
+3,Hydrauto,Hydraulic components and solutions provider,Sweden,2006,Wipro
+4,Unza,Private label personal care products brand,Malaysia,2007,Wipro
+5,Infocrossing,Infrastructure Management,USA,2007,Wipro
+6,Oki Techno Centre,Semiconductor design,Singapore,2007,Wipro
+7,Yardley of London, Personal care brand,UK,2009,Wipro
+8,Promax Applications Group,"Trade promotion planning, management, and optimization solutions",Australia,2012,Wipro
+9,Opus,Risk management & QC services provider,USA,2013,Wipro
+10,Vignani Solutions,"Manufacture of accumulators, primary cells and primary batteries",India,2013,Wipro
+11,ATCOItek,IT services for logistics and utilities,Canada,2014,Wipro
+12,Cellent,IT consulting and services provider,Germany,2015,Wipro
+13,Designit,Design Firm,Denmark,2015,Wipro
+14,Appirio,Cloud Computing Solution Provider,USA,2016,Wipro
+15,Topcoder (Appirio), Crowdsourcing,USA,2016,Wipro
+16,HealthPlan Services,Services for the insurance managed care industries,USA,2016,Wipro
+17,Givon,Manufacturer of metallic parts and assemblies for the aerospace industry,Israel,2016,Wipro
+18,InfoSERVER,"IT Consulting, Development, Infrastructure, and Risk Analysis Company",Brazil,2017,Wipro
+19,Alight,HRMS service provider,USA,2018,Wipro
+20,syfte,Design services provider,Australia,2018,Wipro
+21,International TechneGroup Incorporated (ITI),Computer Aided Design (CAD) and Product Lifecycle Management (PLM) interoperability software services,USA,2019,Wipro
+22,ITI Proficiency Ltd,Feature-based data translation software and services,Israel,2019,Wipro
+23,Splash Corporation,Personal care company,Philippines,2019,Wipro
+24,IVIA,"Business intelligence, application development and outsourcing services",Brazil,2020,Wipro
+25,4C, IT services suite and sales force managed services,UK,2020,Wipro
+26,Eximius Design,"AI based product & semiconductor design, system validation and test automation services",USA,2020,Wipro
+27,Encore Theme Technologies,End to end software solutions for BFSI sectors,India,2020,Wipro
+28,Rational Interactions,Customer experience firm,USA,2020,Wipro
+29,Capco,Wealth and investment management firm,USA,2021,Wipro
+30,Ampion, Enterprise and managed testing services,Australia,2021,Wipro
+31,Edgile,Cybersecurity and risk management services provider,USA,2021,Wipro
+32, Rizing Intermediate Holdings,Provider of SAP functional and technical consulting services,USA,2022,Wipro
+33,BridgePoint,Provider of financial services,USA,2018,TCS
+34,Diligenta,Provider of business process and customer services to L&P and insurers,UK,,TCS
+35,W12 Studios,Provider of marketing and branding services,UK,2018,TCS
+36,Alti,SAP system integrator and consulting services,Europe,2013,TCS
+37,Pramerica,Provider of IT service suite solutions,Ireland,2020,TCS
+38,Simplus,Provider of Salesforce implementation & consultancy services,USA,2020,Infosys
+39,Fluido,"Salesforce consulting, development, integration and training services",Finland,2018,Infosys
+40,Panaya,SaaS for ERP change analytics and Enterprise change testing,New Jersey,,Infosys
+41,Kaleidoscope,Product designing firm,Ohio,2020,Infosys
+42,Carter Digital,"Provider of content development, digital marketing, and SEO services",Melbourne,2021,Infosys
+43,mccamish.com,,Georgia,,Infosys
+44,Blue Acorn iCi,Provider of app designing & analytics services,South Carolina,2020,Infosys
+45,oddity,"Digital marketing, experience, and commerce agency",Germany,2022,Infosys
+46,Hitachi Procurement Services,Procurement provisioning solution provider,Chiyoda-ku,2018,Infosys
+47,Noah Consulting,Data management service provider, Texas,2015,Infosys
+48,WONGDOODY,Provider of customer experience services,Washington,2018,Infosys
+49,Brilliant Basics,Application design and development,London,2017,Infosys
+50,Skava,Mobile Technology Company,California,2015,Infosys
+51,Kallidus Technologies,Construction services provider,Massachusetts,2015,Infosys
+52,Stater,Provider of credit brokerage services,Brussels,2019,Infosys
+53,Singtel,Integrated telecom and IPTV services provider,Singapore,2021,Infosys
+54,Stater,Provider of mortgage and financial services,Dusseldorf,2019,Infosys
+55,BASE,"Provider of regulatory affairs, digital marketing, and other services",Lyngby,2022,Infosys
+56,Butler America,Provider of staffing services ,Connecticut,2016,HCL
+57,Starschema,Provider of business intelligence and big data services,Budapest,2022,HCL
+58,Sankalp Semiconductor,"End-to-end solutions provider for IOs, analog and mixed signal chip design ",Hubli,2019,HCL
+59,Geometric,Product engineering ,Mumbai,2016,HCL
+60,Confinale,Provider of IT services suite solutions,Zurich,2022,HCL
+61,ptop.co.uk,,Egham,,HCL
+62,PowerObjects,Implementation and support services for Microsoft Dynamics CRM,Minnesota,,HCL
+63,H&D International ,Provider of IT services suite,Gifhorn,2018,HCL
+64,Quest Informatics,Provider of application development and financial consulting services,Bangalore,2022,HCL
+65,Concept2Silicon Systems,Complete solutions provider for complex SoC and system design,Bangalore,,HCL
+66,C3i Solutions,"Provider of customer engagement, medical information and social media services",Pennsylvania,2018,HCL
+67,Actian,Hybrid data management platform,California,,HCL
+68,Strong-Bridge Envision,Provider of business consulting services,Georgia,2019,HCL
+69,gbs,"Provider of software & application development, system integration, and IT services",Ratingen,,HCL
+70,DWS Australia,IT Services company,Melbourne,2020,HCL
+71,DataWave Technologies,Provider of data acquisition and analysis platform for research applications,Colorado,2017,HCL
+72,Perigord,Provider of labeling and artwork services for life sciences industry,Dublin,2021,Tech Mahindra
+73,LCC,Network services and business consulting and tools for telecommunications,Virginia,2014,Tech Mahindra
+74,iPolicy Networks,Network intrusion prevention system ,Noida,2013,Tech Mahindra
+75,Comviva,Payment processing solutions for banks & businesses ,Gurgaon,,Tech Mahindra
+76,Lodestone,Provider of IT management consulting and games testing services ,California,2021,Tech Mahindra
+77,BrainScale,Provider of cloud application development and data analytics services ,New Jersey,2021,Tech Mahindra
+78,Complex Consultoria,SAP services provider,Sao Paulo,,Tech Mahindra
+79,Zen3,Provider of cloud services,Washington,,Tech Mahindra
+80,Allyis,"Provider of technology, consulting, and technical staffing services",Washington,,Tech Mahindra
+81,BORN,Design agency,New York,,Tech Mahindra
+82,Cerium Systems,Global design services company for the VLSI and embedded software sectors,Bangalore,,Tech Mahindra
+83,Target Group,Software solutions for the financial services industry,Cardiff,,Tech Mahindra
+84,Momenton,Provider of digital & consulting management services,Melbourne,,Tech Mahindra
+85,Geomatic.AI,,,,Tech Mahindra
+86,Thirdware,,,,Tech Mahindra
+87,The HCI Group,Provider of consultancy services to the healthcare IT department,Florida,,Tech Mahindra
+88,Activus Connect,Provider of customer experience services,Florida,,Tech Mahindra
+89,vCustomer,BPO services provider,Washington,,Tech Mahindra
+90,MadPow,Provider of marketing and application development services,New Hampshire,,Tech Mahindra
+91,Dynacommerce,Sales management solution for small businesses,Sittard,,Tech Mahindra
+92,Hutchison Global Services,Provider of customer experience services,Mumbai,,Tech Mahindra
+93,Objectwise,Provides IT advisory services,Toronto,,Tech Mahindra
+94,Tenzing,IT management and technology consulting services,Auckland,,Tech Mahindra
+95,BERIS consulting,"Provider of software & mobile application development, business intelligence, and IT consulting services",Wolfsburg,,Tech Mahindra
+96,Com-Tec-Co,Insurance program management solutions for the insurance industry,Nicosia,,Tech Mahindra
+97,We Make Websites,Operates retail store of apparel wear & accessories for men and women,London,,Tech Mahindra
+98,Eventus,Provides IT services suite ,Colorado,,Tech Mahindra
+99,SOFGEN,"Provider of banking IT, consulting, and analysis services",Vernier,,Tech Mahindra
+100,LINEAS,"Provider of software & mobile application development, and consulting services",Braunschweig,,Tech Mahindra
+101,Digital OnUS,Services for deployment automation in enterprises,Monterrey,,Tech Mahindra
+102,Digital Risk,"Provider of risk, compliance and transaction management solutions to mortgage industry",Florida,,Mphasis
+103,Mphasis Wyde,Suite solutions for insurance industry ,Paris,,Mphasis
+104,Fortify Infrastructures,Renote IT Operations and Management,California,,Mphasis
+105,Datalytyx,Provider of IoT based analytics and data classifier solution,London,,Mphasis
+106,Eldorado Computing,Automated software solution for benefit managers to process and pay health claims,Arizona,,Mphasis
+107,Stelligent,Continuous Delivery in AWS,Virginia,,Mphasis
+108,Blink UX,Mobile applications development services focussed on UI/UX,Washington,,Mphasis
+109,Mindtree,Consulting and implementations company,India,,LTI
+110,Powerupcloud,Cloud management and big data products.,Bangalore,,LTI
+111,NIELSEN+PARTNER,Provides IT services suite,Hamburg,,LTI
+112,Otis ISRC,Computer software company,Pune,,LTI
+113,augmentIQ,Customer analytics technology platform,Pune,,LTI
+114,Syncordis,Consulting services to banks,Strassen,,LTI
+115,Cuelogic,Provider of application development and cloud services,Pune,,LTI
+116,GDA Technologies,,California,,LTI
+117,lyMbyc,Predictive analytical solutions for pharma and consumer technology,Bangalore,,LTI
+118,Tin Roof ,Provider of IT services suite,Georgia,,LTI
+119,Contino ,Services related to the implementation of CD/CI tools in enterprises,London,,LTI
+120,New Signature ,Offers managed services and professional services for cloud,District of Columbia,,LTI
+121,Lev ,Business consulting firm,Indiana,,LTI
+122,Zenith Technologies ,"Provider of automation, process control, and manufacturing software systems for the life science industry",Ringaskiddy,,LTI
+123,10th Magnitude ,Managed cloud platform,Illinois,,LTI
+124,Collaborative Solutions ,Enterprise cloud consulting services provider,Virginia,,LTI
+125,Meritsoft ,Cash & tax management solutions,Dublin,,LTI
+126,Zone ,Digital marketing and advertising consultancy,Cologne,,LTI
+127,TriZetto ,Provider of software solution for healthcare payers and providers,Colorado,,LTI
+128,marketRx ,Sales and Marketing solutings for Life Sciences Companies,New Jersey,,LTI
+129,Bolder Healthcare ,Provides revenue cycle management services to healthcare providers,Kentucky,,LTI
+130,Mirabeau ,"Provider of digital design, technology, and insights services",Amsterdam,,LTI
+131,Code Zero Consulting ,Provider of IT services suite solutions and advisory services,Georgia,,LTI
+132,Active Intelligence ,Systems integration company,Mississauga,,LTI
+133,Pipc ,Management Consulting Firm,London,,LTI
+134,C1 Solutions ,Limited information available,Hamburg,,LTI
+135,Zaffera ,SAP Retail Consulting and Software Development Firm,New Jersey,,LTI
+136,btconsult ,Limited information available,Acquired,,LTI
+137,Advanced Technology Group ,Business services to manage financial management and reporting,Kansas,,LTI
+138,TQS Integration ,Provider of data analysis and visualization software solution,Waterford,,LTI
+139,EI Technologies ,Provider of business consulting services,Levallois-perret,,LTI
+140,SaaSfocus ,Technology consulting and SaaS products provider for enterprises,Noida,,LTI
+141,HUNTER ,Provider of IT recruitment services,Georgia,,LTI
+142,PSC Management Consulting ,Process and technology consulting services,Hamburg,,LTI
+143,Strategic Vision Consulting ,High-impact consulting and systems implementation for media and entertainment companies,California,,LTI
+144,Servian ,"Provider of data analytics, AI, cloud, DevOps and managed IT services",Sydney,,LTI
+145,Devbridge ,Software development services,Illinois,,LTI
+146,Netcentric ,Provider of data analytics and digital marketing strategy services,Zurich,,LTI
+147,Magenic ,Services related to the development of custom applications for enterprises,Minnesota,,LTI
+148,equinox-consulting.com ,Limited information available,,,LTI
+149,Adaptra ,Business transformation and IT services,Sydney,,LTI
+150,ESG Mobility ,Provider of IT service suite solutions,Munich,,LTI
+151,Hedera ,Provider of digital marketing services,Kontich,,LTI
+152,Softvision ,Specializes in software and mobile application development,Georgia,,LTI
+153,AimNet Solutions ,Managed Infrastructure and Professional Services Company,New Jersey,,LTI
+154,Brilliant Service ,Services related to the development of mobile applications,Osaka,,LTI
+155,Galileo Performance ,IT system testing consulting services provider,Paris,,LTI
+156,Cadient ,Digital marketing agency and analytics solutions,Pennsylvania,,LTI
+157,Odecee ,Enterprise application development and consulting services,Melbourne,,LTI
+158,TMG Health ,Provider of healthcare management services,Pennsylvania,,LTI
+159,Bright Wolf ,Provider of IoT solutions for large scale industrial connected systems,North Carolina,,LTI
+160,Idea Couture ,Management consulting firm,California,,LTI
+161,Pepperweed Advisors ,IT consulting,Pennsylvania,,LTI
+162,KBACE Technologies ,Cloud services provider for range of business processes and industries,New Hampshire,,LTI
+163,Linium ,Digital engineering services providing company,New York,,LTI
+164,Itaas ,Develops technology for digital video delivery,Georgia,,LTI
+165,Inawisdom ,Provider of IT service suite solutions,Ipswich,,LTI
+166,Personiv,Business process outsourcing services provider,Texas,,eClerx
+167,CLX Europe,Offers photo and video production services,Verona,,eClerx
+168,Agilyst,"Provides cable, broadband and telecom services",Pennsylvania,,eClerx
+169,PatientMatters,Provider of platform to manage patient-centric financial solutions,Florida,2020,firstsource
+170,MedAssist,"Provider of accounting, collection, and office management services for healthcare providers",Kentucky,2007,firstsource
+171,ISGN Solutions,Business process outsourcing services for the mortgage industry,Florida,2016,firstsource
+172,ARSI,Provider of insurance and financial services,California,2021,firstsource
+173,Ingenient Technologies,"Offers solution that enables creation, delivery, management and presentation of multimedia content",United States,2009,Sasken
+174,Utilant,Inspection management software,New York,2021,Majesco
+175,InsPro Technologies,Provider of an insurance policy administration software for payers ,Pennsylvania,2020,Majesco
+176,ClaimVantage,Automated claim technology solutions provider ,Maine,2021,Majesco
+177,Exaxe,SaaS solutions for life and pensions industry ,Sandyford,2018,Majesco
+178,Cover-All,Web-based software solutions for commercial P&C industry,New Jersey,2014,Majesco
+179,Herald Health,Protocols system for monitoring clinical information systems ,Massachusetts,2018,Persistent
+180,Genwi,Mobile Content Publishing and Management Platform.,California,2016,Persistent
+181,HoopzPlanetInfo,,Pune,2014,Persistent
+182,Aepona,Provider of managed networking services ,Belfast,2015,Persistent
+183,Software Corporation International,Development and consulting services for the financial services industry,North Carolina,2021,Persistent
+184,RGen Solutions,Provider of gambling services ,Washington,2015,Persistent
+185,Youperience,Provider of sales force solutions ,Erding,2019,Persistent
+186,Shree Partners,"Provides data analytics, test automation, and other services",New Jersey,2021,Persistent
+187,PRM Cloud,Salesforce partner and cloud application development firm,Brisbane,2016,Persistent
+188,Capiot,Cloud-hosted TIBCO applications deployment platform,California,2020,Persistent
+189,MediaAgility,Provider of AI consulting services ,New Jersey,2022,Persistent
+190,Data Glove,Provider of IT service suite solutions ,New Jersey,2022,Persistent
+191,PARX,Provider of digital transformation services,Zurich,2017,Persistent
+192,Rangsons Electronics,Diversified conglomerate operating across multiple industries,Bangalore,2015,CYIENT
+193,WorkForce Delta,"Field service, asset and inventory management solutions",Melbourne,2021,CYIENT
+194,Citec,Engineering and information management services provider,Vaasa,2022,CYIENT
+195,Rangsons Aerospace,"Manufacturer of aircraft heat exchangers, navic receivers and other related products",Bangalore,2015,CYIENT
+196,AnSem,"Analog, RF and mixed-signal ASIC design service company",Leuven,2018,CYIENT
+197,Blom,"Process geographic information ( maps, images and models)and provide various services",Oslo,2016,CYIENT
+198,Celfinet,"RAN configuration, analysis, and troubleshooting solutions provider",Cruz Quebrada,2022,CYIENT
+199,Invati-Insights,Data science platform for multiple industries,Hyderabad,2014,CYIENT
+200,Cyient Insights,"Big Data , IoT, and advanced analytics services provider",Hyderabad,2014,CYIENT
+201,Softential,"Provider of software & web development, marketing, and other services",Virginia,2014,CYIENT
+202,IG Partners,Strategic and M&A advisory firm focused on multiple sectors,Milano,2020,CYIENT
+203,Grit Consulting,Provider of operational management consulting services,Brisbane,2022,CYIENT
+204,IG Partners,"offers governance advisory, asset optimization, operations, and management services",Melbourne,2020,CYIENT
+205,EnablePath,Software & services provider,United States,2014,Birlasoft
+206,mediasmart,Mobile ad demand side platform for advertisers,Madrid,2020,Affle
+207,Revx,Retargeting Platform For Mobile Ads,Bangalore,2019,Affle
+208,Vizury,"Provides a marketing, and advertising platform",Bangalore,2018,Affle
+209,Jampp,Mobile app marketing platform,Buenos Aires,2021,Affle
+210,Shoffr,Provider of omnichannel order management and marketing platform for retail stores,Singapore,2019,Affle
+211,AppStudioz,Mobile app development company,Gurgaon,2014,Affle
+212,APPNext,Self-Serve Advertising Platform,Tel Aviv,2020,Affle
+213,,Provider of business process management services,United States,2021,Coforge
+,SLK Global Solutions,,,,
+214,Vayavya Labs,Productivity tools for Embedded System Developers and IC design engineers,Belgaum,2020,KPIT Technologies
+215,CG Smith Software,,Bangalore,2006,KPIT Technologies
+216,Sparta Consulting,,California,2009,KPIT Technologies
+217,CPG Solutions,,Florida,2010,KPIT Technologies
+218,PathPartner,"Provider of embedded, AI, cloud and engineering services",Bangalore,2021,KPIT Technologies
+219,Somit Solutions,Provider of vehicle maintenance services,Abingdon,2022,KPIT Technologies
+220,Sopris,"Provider of software development, ERP, analytics, IT managed, and other services",Colorado,2018,Sonata Software
+221,Rezopia,Cloud based travel ERP platform,California,2014,Sonata Software
+222,Halosys,Platform for enterprises to build mobile apps,California,2015,Sonata Software
+223,GBW,Customer experience services provider to enterprises,Melbourne,2020,Sonata Software
+224,Scalable Data Systems,Services for implementation of Microsoft Dynamics AX for enterprises,Brisbane,2018,Sonata Software
+225,Encore Software Services,Solutions related to the development and testing of applications,Chennai,2021,Sonata Software
+226,,Cloud-based social media monitoring and analytics tools,India,2014,MU Sigma
+,Webfluenz,,,,
+227,Day One,Provider of legal & compliance management consulting services,Paris,2022,KPMG
+228,Recommender Labs,Provider of tools to create ML based applications for generating recommendations,Mumbai,2019,KPMG
+229,FMBT,"Provider of accounting, financial, tax, assurance and business management services",Terrebonne,2022,KPMG
+230,Fortica,Provider of cloud cybersecurity services,Quebec City,2022,KPMG
+231,Terria,Mobile experience platform,Basel,2017,KPMG
+232,KMCS,Provider of project management and consulting services for construction industry,Dublin,2022,KPMG
+233,Future Analytics,"Offers property planning, development and consulting services",Dublin,2020,KPMG
+234,Rubicon Red,"DevOps, cloud and consulting solutions for Oracle Middleware",Melbourne,2022,KPMG
+235,Certus APAC,Provider of ERP development services,Melbourne,2021,KPMG
+236,Bois Montpetit,"Provider of accounting, audit and tax consulting services",Montreal,2021,KPMG
+237,DayOne Consulting,"Provider of audit & assurance, tax, and financial advisory services",Montreal,2022,KPMG
+238,Rightpoint,Provider of IT consultancy and advisory,Illinois,2019,Genpact
+239,OnSource,Vehicle and property photo inspections via smart phone apps for claims handling,Massachusetts,2017,Genpact
+240,BrightClaim,Insurance claims service provider,Georgia,2017,Genpact
+241,RAGE Frameworks,Provides knowledge based business process automation solutions,Massachusetts,2017,Genpact
+242,Endeavour,Provider of digital transformation services,Texas,2015,Genpact
+243,Atyati Technologies,Technology platform provider for financial inclusion of the rural population.,Bangalore,2012,Genpact
+244,PNMsoft,Business Process Management Suite,Watford,2016,Genpact
+245,Avolent,Self-service eBilling and eSettlement software provider.,California,2009,Genpact
+246,Genpact Headstrong Capital Markets,Provider of financial services,Illinois,2011,Genpact
+247,Commonwealth Informatics,Data analytics and pharmacovigilance service provider,Massachusetts,2018,Genpact
+248,Pharmalink Consulting,,New Jersey,2014,Genpact
+249,riskCanvas,Financial crime compliance management software,Virginia,2019,Genpact
+250,Something Digital,Provides application development services,New York,2020,Genpact
+251,Symphony Marketing Solutions,Provider of marketing services,Connecticut,2010,Genpact
+252,Enquero,Cloud-based analytics platform to catalog and visualize data,California,2021,Genpact
+253,Akritiv,SaaS solutions for working capital optimization,California,2011,Genpact
+254,TandemSeven,Customer web experience innovation products and consultancy provider,Massachusetts,2017,Genpact
+255,Barkawi,Provider of supply chain consulting services,Munich,2018,Genpact
+256,Slack,Provider of messaging program designed for the workplace,California,2020,Salesforce
+257,Traction on Demand,Suite of productivity tools for Salesforce CRM,Burnaby,2022,Salesforce
+258,Troops,Cloud-based CRM & messaging solutions provider,New York,2022,Salesforce
+259,Vlocity,Omni-Channel cloud software for delivering industry-specific experiences to customers.,California,2020,Salesforce
+260,Omni-Channel cloud software for delivering industry-specific experiences to customers.,Enterprise Applications,California,,Salesforce
+261,Mapanything,Data mapping and geo analytics software provider,North Carolina,2019,Salesforce
+262,Mobify,Optimise websites for mobile platform,Vancouver,2020,Salesforce
+263,Evergage,Provider of personalized marketing solution for businesses,Massachusetts,2020,Salesforce
+264,Narrative Science,Provider of an AI-based content creation solution,Illinois,2021,Salesforce
+265,Attic Labs,Decentralized database for structured data,California,2018,Salesforce
+266,MuleSoft,Platform offering API management and integration solution,California,2018,Salesforce
+267,Twin Prime,Mobile app performance acceleration,California,2016,Salesforce
+268,Toopher,Automated Two-Factor Authentication,Texas,2015,Salesforce
+269,Coolan,Software solution to measure the health of a datacenter,California,2016,Salesforce
+270,MetaMind,AI & deep learning solutions for enterprises,California,2016,Salesforce
+271,PredictionIO,Open source machine learning server,Washington,2016,Salesforce
+272,Krux,Cross-screen data management platform,California,2016,Salesforce
+273,RelateIQ,Relationship intelligence platform for businesses,California,2014,Salesforce
+274,BeyondCore,BI advanced analytics,California,2016,Salesforce
+275,Implisit,Predictive Sales platform,Tel Aviv,2016,Salesforce
+276,Tempo,"Smart calender app, acquired by Salesforce in May 2015",California,2015,Salesforce
+277,EdgeSpring,Business Intelligence and Analytics,California,2013,Salesforce
+278,Clipboard,Onine social bookmarking platform,Washington,2013,Salesforce
+279,ExactTarget,Multichannel marketing automation platform,Indiana,2013,Salesforce
+280,Data.com,Source of accurate business data,California,2010,Salesforce
+281,Prior Knowledge,Limited information available,California,2012,Salesforce
+282,GoInstant,Shared Co-Browsing Solutions,Halifax,2012,Salesforce
+283,Salesforce Buddy Media,Social media marketing solutions,New York,2012,Salesforce
+284,Stypi,Real-time document collaboration,California,2012,Salesforce
+285,Thinkfuse,SaaS provider for Regular Progress Reports,Washington,2012,Salesforce
+286,EntropySoft,Enterprise content management and integration software,Paris,2013,Salesforce
+287,Model Metrics,Salesforce implementation partner,Illinois,2011,Salesforce
+288,Demandware,Enterprise cloud commerce solutions,New York,2016,Salesforce
+289,HeyWire,Enterprise Mobile Messaging Platform,Massachusetts,2016,Salesforce
+290,Rypple,The social way to improve performance.,Toronto,2011,Salesforce
+291,Etacts,Inbox management solution for Sales People,California,2010,Salesforce
+292,Tableau,Cloud based visual analytics solutions provider,Washington,2019,Salesforce
+293,Navajo Systems,Encryption based data security over cloud services,Jerusalem,2011,Salesforce
+294,Many Moon,Blog page focused on print management related topics,Delaware,2011,Salesforce
+295,GroupSwim,Collaboration and knowledge management,California,2009,Salesforce
+296,Salesforce Radian6,Social Media Monitoring Platform,Fredericton,2011,Salesforce
+297,Atonit,Provider of customer experience services,Sao Paulo,2022,Salesforce
+298,tropps.ai,Platform offering revenue forecasting solutions,,2022,Salesforce
+299,Acumen Solutions,Provider of strategy consulting services,Virginia,2020,Salesforce
+300,Activa Live,Live Chat Software Provider,Missouri,2010,Salesforce
+301,MinHash,,California,2015,Salesforce
+302,InStranet,Knowledgebase for Customer Support and Service,Illinois,2008,Salesforce
+303,The CMO Club,Community of senior marketing executives,New York,2020,Salesforce
+304,Servicetrace,Provider of automated software testing solutions,Darmstadt,2021,Salesforce
+305,gravitytank,Provider of software development and cloud computing services,Illinois,2016,Salesforce
+306,Rebel,Email productivity solution,New York,2018,Salesforce
+307,LevelJump,Sales enablement solution,Toronto,2021,Salesforce
+308,ÄKTA,Digital products designer and marketeer,Illinois,2015,Salesforce
+309,Sitemasher,Website builder tool,Vancouver,2010,Salesforce
+310,Sequence,Marketing and communication agency,California,2017,Salesforce
+311,Phennecs,Cloud-based solution provider of data anonymization,Texas,2022,Salesforce
+312,ClickSoftware,Workforce Management Solutions,Petah Tikva,2019,Salesforce
+313,ChoicePass,Cloud-based perks and rewards management platform,California,2012,Salesforce
+314,Aruba Networks,Developer of cloud-based enterprise networking equipment,California,2015,HP
+315,Eucalyptus,Open source private and hybrid cloud solutions provider,California,2014,HP
+316,Teradici,Offers PCoIP and remote desktop solutions,Burnaby,2021,HP
+317,ConteXtream,Carrier grade SDN solution,Petah Tikva,2015,HP
+318,Stratavia,Data Center Automation solutions,Colorado,2010,HP
+319,IBRIX,Scale-out NAS platform,Massachusetts,2009,HP
+320,Palm,Internet-first brand offering smartphones & accessories,California,2010,HP
+321,Fortify,Website and Mobile Application Security,California,2010,HP
+322,Voltage,Data-centric encryption and key management,California,2015,HP
+323,nuTsie,Internet and mobile Radio,Washington,2010,HP
+324,Vertica,Data management solutions and NewSQL database,Massachusetts,2011,HP
+325,NUR,Film production company,Lodz,2007,HP
+326,Colubris Networks,WLAN solution provider,Massachusetts,2008,HP
+327,Polyserve,Storage software for clustering NAS appliances,Oregon,2007,HP
+328,Tabblo,Poster creation and printing site,Massachusetts,2007,HP
+329,SPI Dynamics,Web application security & vulnerability assessment,Georgia,2007,HP
+330,Lefthand Networks,Platform offering storage area networks solutions,Colorado,2008,HP
+331,OuterBay Technologies,,California,2006,HP
+332,Bitfone,,California,2006,HP
+333,ArcSight,Big data based SIEM and log management platform,California,2010,HP
+334,RLX Technologies,Server management software,Texas,2005,HP
+335,AppIQ,Provider of storage resource management software,Massachusetts,2005,HP
+336,Storageapps,Network storage products,New Jersey,2001,HP
+337,Mercury interactive,Load testing tool,California,2006,HP
+338,EDS,IT and business process outsourcing solutions,Texas,2008,HP
+339,3PAR,Provider of disk arrays and storage management software,California,2010,HP
+340,3Com,High-performance networking and security solutions,Massachusetts,2009,HP
+341,OneFlow,Provider of on-demand print production services,London,2019,HP
+342,Apogee Corp,Manage print services provider,Maidstone,2018,HP
+343,Aruba Cloud,Cloud Services in Europe,Clichy,2015,HP
+344,TruLogica,Adaptive user-provisioning software for IAM,Texas,2004,HP
+345,Persist Technologies,Application-centric storage software and retrieval software for content management,California,2003,HP
+346,CHOOSE,Provider of biodegradable bottles,Edinburgh,2022,HP
+347,David 3d Scanner,Manufacturer of 3D scanners for making 360 degree 3D models,Koblenz,2016,HP
+348,Polyserve,Distributor of fertilizers,Giza,2007,HP
+349,Poly,Brand of audiovisual products,California,2022,HP
+350,Compaq,Brand of personal computer,Texas,2001,HP
+351,HyperX,Brand of PC gaming accessories,California,2021,HP
+352,Nuevora,Big Data Analytics Solutions for Customer Success,California,2016,Sutherland Global
+353,Adventity,Banking & Financial Services ,New York,2010,Sutherland Global
+354,Apollo Health Street,Horizontal pLayer,Hyderabad,2012,Sutherland Global
+355,ePoise,Cloud based video interviewing and screening product,India,2019,Zoho Corporation
+356,Cignex,Open Source Enterprise Solutions and Services,California,2011,Datamatics
+357,TechJini Solutions,Mobile Application Development Company,Bangalore,2017,Datamatics
+358,Lumina Datamatics,End-to-end publishing service provider,Chennai,2016,Datamatics
+359,TradeGecko,Provider of cloud-based suite solutions for wholesalers,Singapore,2020,Intuit
+360,Credit Karma,Credit score checking and comparison platform for financial products,California,2020,Intuit
+361,Origami Logic,SaaS based marketing intelligence platform,California,2019,Intuit
+362,Exactor,Cloud-based sales tax compliance software.,Pennsylvania,2017,Intuit
+363,TSheets,Cloud-based time-tracking software for businesses,Idaho,2017,Intuit
+364,Applatix,Platform to build and deploy apps with containers,California,2018,Intuit
+365,Mint,Online expense management solutions for individuals,California,2009,Intuit
+366,Porticor,Cloud data security through Homomorphic Key Encryption,Tel Aviv,2015,Intuit
+367,ZeroPaper,Financial Management for Small Companies,Brasilia,2015,Intuit
+368,Lettuce,Inventory and Order Management System,California,2014,Intuit
+369,AisleBuyer,App-based self-checkout solution for offline retailers,Massachusetts,2012,Intuit
+370,Elastic Intelligence,Data Integration,California,2013,Intuit
+371,Payvment,Social network e-commerce platform,California,2013,Intuit
+372,Docstoc,Legal documents for SMBs,California,2013,Intuit
+373,Boorah,Limited information available,California,2009,Intuit
+374,StepUp Commerce,Ecommerce enabler,California,2006,Intuit
+375,PayCycle,Online Payroll service provider.,California,2009,Intuit
+376,Electronic Clearing House,End-to-end payment processing solutions.,California,2007,Intuit
+377,Paytrust,Bill management and payment platform,California,2005,Intuit
+378,Full Slate,Appointment book for service providers,Washington,2013,Intuit
+379,MailChimp,Cloud based platform offering email marketing software for SMBs,Georgia,2021,Intuit
+380,Invitbox,Cloud-based data extraction and invoice approval suite.,Surry Hills,2014,Intuit
+381,Acrede HR & Payroll,Global HR and Payroll,Salisbury,2014,Intuit
+382,Income Dynamics,Fair market value determination software for donated products.,Nebraska,2003,Intuit
+383,Innovative Merchant,Merchant account services to SMEs,California,2003,Intuit
+384,Mint Bills,Bill aggregation and payment app,California,2009,Intuit
+385,Amrock,Property development and investment management services provider,Michigan,1999,Intuit
+386,Paysuite,Cloud payroll solutions for SME businesses,London,2014,Intuit
+387,OneSaas,Creates App integrations to streamline workflows,Normanhurst,2021,Intuit
+388,Fifo Workpapers,Provider of a cloud-based practice management solution for professional accountants.,Melbourne,2013,Intuit
+389,Imvision,Provider of API security platform,Tel Aviv,2021,Intuit
+390,itDuzzit,Connects Cloud based Business Apps to integrate workflows,Illinois,2013,Intuit
+391,SecureTax,Tax preparation and filling services,Georgia,1999,Intuit
+392,Playbook HR,Workforce management system for on-demand marketplaces.,California,2015,Intuit
+393,Mobile Money Ventures,Mobile banking solutions provider,California,2011,Intuit
+394,EmployeeMatters,"Provides human resource management, benefits, and payroll services",Connecticut,2000,Intuit
+395,Taulia,AI-based electronic invoicing and supply chain management solution for businesses,California,2022,SAP
+396,AppGyver,Provider of visual app development platform,Helsinki,2021,SAP
+397,Signavio,Cloud-based business process management software,Berlin,2021,SAP
+398,Askdata,AI-based platform for data access and insights,California,2022,SAP
+399,Qualtrics,Platform for building surveys for feedback collection,Utah,2018,SAP
+400,Emarsys,B2C marketing personalization platform,Vienna,2020,SAP
+401,RecastAI,Platform for NLP/API integration in to Applications,Paris,2018,SAP
+402,Contextor,Robotic process automation and desktop automation,Paris,2018,SAP
+403,Plat.one,M2M and IoT device management and application development platform,California,2016,SAP
+404,Altiscale,Hosted Hadoop as a service provider,California,2016,SAP
+405,Gigya,Customer Identity Management Suite,California,2017,SAP
+406,Coresystems,Field service management software,Windisch,2018,SAP
+407,Abakus,Marketing Effectiveness evaluation and planning software,California,2016,SAP
+408,Hybris,Customer experience software solutions provider,Illinois,2013,SAP
+409,SeeWhy,Cloud-based remarketing solutions for businesses,Massachusetts,2014,SAP
+410,Roambi,Mobile Software Productivity Suite,California,2016,SAP
+411,CallidusCloud,"Cloud-based sales, marketing and pipeline management solutions",California,2018,SAP
+412,Concur,SaaS-driven corporate travel expense & invoice management solution,Washington,2014,SAP
+413,SuccessFactors,Cloud-based business execution software,California,2011,SAP
+414,KXEN,"Predictive Analysis Company for customer lifecycle analytics, supply chain analytics and business intelligence",California,2013,SAP
+415,Clear Standards,Energy Reporting software,Virginia,2009,SAP
+416,Coghead,PaaS for building custom business applications,California,2009,SAP
+417,Maxware,Identity management system and virutal directory,Trondheim,2007,SAP
+418,Visiprise,Provider of MES Software,Georgia,2008,SAP
+419,OutlookSoft,Business performance software solution provider,Connecticut,2007,SAP
+420,Fieldglass,Vendor Management system,Illinois,2014,SAP
+421,Virsa Systems,A security and controls company,Iowa,2006,SAP
+422,Pilot Software,Strategy Management and business analytics solutions,California,2007,SAP
+423,Triversity,Cloud-based POS and back-office management,Toronto,2007,SAP
+424,SAP Ariba,"E-procurement, invoicing, and B2B collaboration software for businesses",California,2012,SAP
+425,Lighthammer,Manufacturing Intelligence and collaboration software solution,Pennsylvania,2005,SAP
+426,Highdeal,Real Time Billing Software for Telecom Companies,Paris,2009,SAP
+427,TechniData,Product Safety and EHS software solution,Markdorf,2010,SAP
+428,Camilion,Insurance policy and product management software,Markham,2013,SAP
+429,SmartOps,Inventory optimisation and analytics softwares,Pennsylvania,2013,SAP
+430,Business Objects,Business Intelligence suite,Levallois-perret,2007,SAP
+431,Fedem,Provides digital twin platform for various industries,Trondheim,2016,SAP
+432,Multiposting,Job posting technology,Paris,2015,SAP
+433,Callixa,Enterprise Information Integration Software,California,2005,SAP
+434,SAF,forecasting software,Tagerwilen,2009,SAP
+435,SwoopTalent,Social Talent Sourcing,California,2021,SAP
+436,Multiposting,Recruitment and sourcing solution,Paris,2015,SAP
+437,Syclo,enterprise mobile app platform,Illinois,2012,SAP
+438,Sybase,Relational Database enterprise software provider,California,2010,SAP
+439,Datango,SaaS based enterprise training resource,Berlin,2012,SAP
+440,KMS Software Company,On boarding software,California,2013,SAP
+441,Oculus,Provider of VR-based head-mounted displays,California,2019,Adobe
+442,Frame.io,Media collaboration solutions provider,New York,2021,Adobe
+443,ContentCal,Platform offering software for social media and content management,London,2021,Adobe
+444,Abstract,Provider of designer collaboration & feedback tools,California,2022,Adobe
+445,Workfront,Cloud-based project management solution,Basingstoke,2020,Adobe
+446,SaySpring,Design and Prototyping tool to create voice prototypes for Amazon Alexa and Google Home,New York,2018,Adobe
+447,Magento,Provider of cloud-based and open source e-commerce software,California,2018,Adobe
+448,Uru,Content-aware video advertising,New York,2018,Adobe
+449,Livefyre,Community engagement tools through User Generated Content,California,2016,Adobe
+450,Fotolia,Royalty-free stock photo marketplace platform,New York,2014,Adobe
+451,Mixamo,Graphics tool provider for the game developers,California,2015,Adobe
+452,Aviary,Photo-editing SDK provider,New York,2014,Adobe
+453,Marketo,Provider of marketing automation platform for businesses,California,2018,Adobe
+454,TubeMogul,Video Ad Buying Platform,California,2016,Adobe
+455,Behance,Online platform for connecting with professionals from the media industry,New York,2012,Adobe
+456,Neolane,Conversational Marketing Platform,Paris,2013,Adobe
+457,Auditude,Video Advertising Platform,California,2011,Adobe
+458,Typekit,Web store for fonts & typefaces,California,2011,Adobe
+459,Demdex,Audience Management Platform.,New York,2011,Adobe
+460,Omniture,Web analytics and online business optimization solutions for businesses,Utah,2009,Adobe
+461,EchoSign,Electronic signature solutions and signature automation,California,2011,Adobe
+462,Efficient Frontier,Online Advertising at Scale,California,2011,Adobe
+463,Downstream Marketing,Digital Performance Agency,Sydney,2011,Adobe
+464,Day Software,Java-based content repositories and enterprise focused Web Content Management software,Basel,2010,Adobe
+465,Allegorithmic,3D painting and texturing Software,Clermont-ferrand,2019,Adobe
+466,Q-Link Technologies,Limited information available,Florida,2004,Adobe
+467,Ideacodes,Limited information available,California,2013,Adobe
+468,PhoneGap,Open source development and deployment of Hybrid apps,Vancouver,2011,Adobe
+469,IRIDAS,GPU-based color grading application,Munich,2011,Adobe
+470,Franchise Solutions,Online platform for franchise investment data,New Hampshire,1999,Adobe
+471,Syntel,"IT automation services, recursive, and intelligent automation using SyntBots",USA,2018,Atos
+472,Marketics,Marketing solutions,Bangalore,2007,WNS Global
+473,HealthHelp,Operates as a specialty benefits management company,Texas,2017,WNS Global
+474,Value Edge,Business Research and Analytics firm,Noida,2016,WNS Global
+475,Vuram,Provider of business management and UX design consulting services,Chennai,2022,WNS Global
+476,Altran,High Tech Engineering Consultancy,Neuilly-sur-seine,2019,Capgemini
+477,WhiteSky Labs,API Integration Services,Sydney,2020,Capgemini
+478,Idean,Digital designing services provider,California,2017,Capgemini
+479,LiquidHub,IT Consultancy & Services Company,Pennsylvania,2018,Capgemini
+480,Purpose,Strategy consultancy services for social movements,New York,2020,Capgemini
+481,iGate,iGATE is an integrated technology and operations (iTOPS) outsourcing solutions provider with global services delivery,New Jersey,2015,Capgemini
+482,CPM Braxis,IT consulting and outsourcing company,Barueri,2010,Capgemini
+483,Prosodie,Customer queires management software,Boulogne-billancourt,2011,Capgemini
+484,June Twenty First,Provider of marketing services,Paris,2018,Capgemini
+485,Annik Technology Services,Provider of IT services suite solutions,Washington,2018,Capgemini
+486,KONEXUS Consulting Group,Provider of strategy and management consulting services,Hamburg,2019,Capgemini
+487,Software Architects,software development firm,Illinois,2007,Capgemini
+488,CS Consulting,Organisational and leadership consulting and training,Cologne,2010,Capgemini
+489,RXP,Services related to software development and technical advisory for enterprises,Melbourne,2020,Capgemini
+490,Skvader,Provider of IT services & BPO services,Florida,2010,Capgemini
+491,BI Consulting Group,IT services provider,Minnesota,2011,Capgemini
+492,Aive,Provider of IT consultancy and advisory,,2011,Capgemini
+493,Kanbay International,Limited information available,Illinois,2006,Capgemini
+494,"Vengroff, Williams & Associates",Order to Cash BPO solutions,California,2011,Capgemini
+495,Acclimation,Provider of ERP services,Melbourne,2021,Capgemini
+496,CS-CONSULTING,Limited information available,Eurasburg,2010,Capgemini
+497,Rufus Leonard,Provider of branding services,London,2022,Capgemini
+498,IBX,Provider of SaaS solutions purchasing platform,Stockholm,2010,Capgemini
+499,Sophia,Provider of IT services suite,Prague,2008,Capgemini
+500,Thesys Technologies,High-frequency trading technology provider to institutions,New York,2010,Capgemini
+501,TCube Solutions,Provider of software development services,South Carolina,2017,Capgemini
+502,Nu Solutions,Testing services provider,Ettalong Beach,2009,Capgemini
+503,Oinio,Salesforce and Marketing Automation solutions and services,Unterschleissheim,2016,Capgemini
+504,SSP Corporation,SAP based solutions to the E&P Oil and Gas industry,Texas,2014,Capgemini
+505,Strategic Systems Solutions,Limited information available,Liverpool,2010,Capgemini
+506,VariQ,Provider of IT services suite,Maryland,2021,Capgemini
+507,Advectas,Provider of data analytics services,Stockholm,2020,Capgemini
+508,Sark,Limited information available,,2007,Capgemini
+509,Itelios,Provides e-commerce development services,Paris,2017,Capgemini
+510,IBX Business Network,Cloud-based e-procurement suite,Bromma,2010,Capgemini
+511,Beechwood,Provider of IT services suite solutions,,1999,Capgemini
+512,Empired,IT Services provider,Perth,2021,Capgemini
+513,Praxis,Provider of IT services suite,Mumbai,2011,Capgemini
+514,Fahrenheit 212,Strategy and Design Firm,New York,2016,Capgemini
+515,Euriware,Provider of system integration and consulting services,Guyancourt,2013,Capgemini
+516,Chappuis Halder,"Provider of financial, cyber security, business development & transformation services",Paris,2022,Capgemini
+517,Transiciel,Provider of IT services suite solutions,Boulogne-billancourt,2003,Capgemini
+518,Plaisir Informatique,Competencies and data migration tools,Plaisir,2010,Capgemini
+519,Lyons Consulting Group,Digital agency and e-commerce service provider,Illinois,2017,Capgemini
+520,DOING,Provider of application development and digital marketing services,Rome,2018,Capgemini
+521,Acme Packet,Network Equipment Manufacturer,Massachusetts,2013,Oracle
+522,Convergin,Real time service brokering solutions for CSP.,Herzliya,2010,Oracle
+523,Aconex,Cloud-based project management software for the construction industry,Melbourne,2017,Oracle
+524,Conformia Software,Product/process lifecycle management software,California,2009,Oracle
+525,Secerno,DB firewall solution for database security,Oxford,2010,Oracle
+526,Datanomic,"Provides Data quality management, risk and compliance screening solution",Cambridge,2011,Oracle
+527,Virtual Iron Software,Software for server virtualization & virtual infrastructure management,Massachusetts,2009,Oracle
+528,Endeca,"Big Data Analytics, Web Commerce and BI Solutions",Massachusetts,2011,Oracle
+529,Eloqua,Cloud based Marketing Automation and campaign performance analytics platform,California,2012,Oracle
+530,SelectMinds,Employee referral and engagement tools,New York,2012,Oracle
+531,AmberPoint,Cloud governance and management solutions provider,California,2010,Oracle
+532,ClearApp,Application service management,California,2008,Oracle
+533,Instantis,cloud-based and on-premise project portfolio management software,California,2012,Oracle
+534,Bridgestream,Employee role management software provider,California,2007,Oracle
+535,mValent,Configuration Managment,Massachusetts,2009,Oracle
+536,LogicalApps,provides automated GRC controls management solutions,California,2007,Oracle
+537,Metasolv Software,Service fulfillment solutions provider,Texas,2006,Oracle
+538,Silver Creek Systems,Product Data mastering solutions,Colorado,2010,Oracle
+539,Taleo,Cloud-based Talent Intelligence solutions,Ohio,2012,Oracle
+540,GoAhead Tours,Tour operator offering guided tours,Massachusetts,2011,Oracle
+541,Oblix,SSO based integrated IAM solution,California,2005,Oracle
+542,Front Porch Digital,Digital content storage management solution provider,Colorado,2014,Oracle
+543,Tacit Software,Collaboration and knowledge management software,California,2008,Oracle
+544,HotSip AB,Communications infrastructure software,Stockholm,2006,Oracle
+545,HyperRoll,Data integration solution,California,2009,Oracle
+546,Context Media,Limited information available,Thor Technologies,2005,Oracle
+547,Thor Technologies,Identity management and provisioning solution,New York,2005,Oracle
+548,Thor Technologies,Provides Identity and Access Management Solution,New York,2005,Oracle
+549,BEA Systems,Enterprise Infrastructure and Applicaiton provider,California,2008,Oracle
+550,Cornerstone Retail Solutions,Developer of retail management software,Texas,2006,Oracle
+551,InQuira,Cloud-based platform for knowledge management,California,2011,Oracle
+552,Demantra,Demand management and Sales & Operations planning solution,Massachusetts,2006,Oracle
+553,G-Log,Provider of transport management solutions,Connecticut,2005,Oracle
+554,Passlogix,Enterprise SSO solution for IAM,New York,2010,Oracle
+555,ProfitLogic,Platform offering retail inventory and price optimization solutions,Massachusetts,2005,Oracle
+556,Filefish,Online platform for document management,California,2003,Oracle
+557,Lodestar Corporation,"Meter data management , pricing and billing software",Massachusetts,2007,Oracle
+558,RightNow Technologies,Cloud-based customer experience software suite,Montana,2011,Oracle
+559,Siebel Systems,CRM Solution,California,2005,Oracle
+560,Agile Software,Suite of PLM software products,California,2007,Oracle
+561,Hyperion,Business Intelligence suite,California,2007,Oracle
+562,Peoplesoft,Business management solutions,California,2004,Oracle
+563,Stellent,Cloud infrastructure management solutions provider,Minnesota,2006,Oracle
+564,Sunopsis,Provider of data integration solution,Massachusetts,2006,Oracle
+565,Phaos Security,Identity management security software,New York,2004,Oracle
+566,Active Reasoning,Automation software for information technology policy enforcement,California,2007,Oracle
+567,RuleBurst Holdings,Business rule management software,Chatswood,2008,Oracle
+568,Sauce,Online platform for collaborative video creation,London,2020,Oracle
+569,GloriaFood,Solutions for online food ordering for restaurants businesses,Bucharest,2021,Oracle
+570,Ndevr,Provider of ERP and managed cloud services,Melbourne,2011,Oracle
+571,Tekelec,IP and Data management company.,North Carolina,2013,Oracle
+572,Innobase Oy,Developer of InnoDB - Open Source Database Technology,Helsinki,2005,Oracle
+573,Steltor,Provider of enterprise calendaring software system,Saint John,2002,Oracle
+574,Sunopsis,Data Integration,Lyon,2006,Oracle
+575,Advanced Visual Tech,Provides application development services,Arizona,2008,Oracle
+576,Relsys,Provider of drug safety and pharmacovigilance solutions,California,2009,Oracle
+577,Sun Microsystems,OpenStack cloud computing platform,California,2009,Oracle
+578,Sophoi,IP Management,California,2009,Oracle
+579,Micros,Cloud-based POS software and EIS systems for retail & hospitality,Maryland,2014,Oracle
+580,CloudMonkey,OpenSource Automated Mobile Testing tool,Colorado,2015,Oracle
+581,Sleepycat software,Open Source key value database,Illinois,2006,Oracle
+582,Interlace Systems,Financial Planning and analytics,California,2007,Oracle
+583,Netsure Telecom,"Network Intelligence, Analytics and Integrity Software for Communication Providers",Sao Paulo,2007,Oracle
+584,Net4call,Parlay/OSA service delivery components for telecom industry,Oslo,2006,Oracle
+585,Responsys,Cloud based cross-channel marketing automation solution,California,2013,Oracle
+586,Retek,Suite of software solutions for retail industry,Minnesota,2005,Oracle
+587,Tangosol,Real-Time In-Memory Data Grid,Massachusetts,2007,Oracle
+588,Pillar Data,SAN Block I/O storage Systems,California,2011,Oracle
+589,Global Knowledge Software,Self-service training automation software,Pennsylvania,2008,Oracle
+590,taleo.net,Provider of cloud services,California,2012,Oracle
+591,ClearTrial,Clinical Trial Operations Software,Illinois,2012,Oracle
+592,TimesTen,AI-based in-memory database software solution provider,California,2005,Oracle
+593,Skire,Cloud-based project management software provider,California,2012,Oracle
+594,DataRaker,"Web-based analytics solutions for electric, water, and gas utilities.",California,2012,Oracle
+595,Corente,Cloud Network Services - WAN and Gateways,New Jersey,2014,Oracle
+596,Phase Forward,Data collection and data management solutions for clinical trials and drug safety.,Massachusetts,2010,Oracle
+597,market2lead,Demand generation and marketing automation software,California,2010,Oracle
+598,G-Log,Transporation management software,Pennsylvania,2005,Oracle
+599,Bharosa,Authentication based online identity theft and fraud prevention,California,2007,Oracle
+600,Skywire Software,Document management software for Insurance industry,Texas,2008,Oracle
+601,siteworkssolutions.com,Provider of software for clinical trial management,,2004,Oracle
+602,Portal Software,Billing and Revenue Management Solutions for Communications and Media,California,2006,Oracle
+603,TempoSoft,Web based workforce management solutions,Paris,2005,Oracle
+604,Octetstring,Directory virtualization platform,Illinois,2005,Oracle
+605,Art Technology Group,Integrated Suite providing CRM and eCommerce Software Applications,Massachusetts,2010,Oracle
+606,TripleHop Technologies,Context-Sensitive Enterprise Search,New York,2005,Oracle
+607,LiveLOOK,Real time Visual Collaboration Solutions,New Jersey,2014,Oracle
+608,Iridize,"Onboarding guides, training solutions and rules based targeting",Tel Aviv,2018,Oracle
+609,SparklineData,Platform to automate the process of analytics,California,2018,Oracle
+610,Vocado,Limited information available,California,2018,Oracle
+611,Adi Insights,"Employee scheduling, time tracking and performance metrics monitoring solution",USA,2022,Oracle
+612,Cerner,Online platform for employee health benefits,USA,2021,Oracle
+613,FatWire,Cross Channel Customer Engagement platform,USA,2011,Oracle
+614,DataFox,Data platform for prospect sales leads,USA,2018,Oracle
+615,Talari,Creating WAN by aggregation of private connections,USA,2018,Oracle
+616,Zenedge,Enterprise grade WAF and DDoS mitigation platform,USA,2018,Oracle
+617,Dyn,DNS and Network Monitoring Solutions,UK,2016,Oracle
+618,Moat,Ad analytics for real time optimization,USA,2017,Oracle
+619,Grapeshot,Keyword targeting & analytics solution provider,UK,2018,Oracle
+620,Wercker,Docker-native CI/CD automation platform,Netherlands,2017,Oracle
+621,DataScience,BI Customer lifetime value,USA,2018,Oracle
+622,Crosswise,Cross-device identification mapping,Israel,2016,Oracle
+623,Apiary,"Platform for API Design, Development and Documentation",USA,2017,Oracle
+624,StackEngine,"Docker Operations, Management, & Automation",USA,2015,Oracle
+625,NetSuite,Cloud based platform offering ERP software for businesses,USA,2016,Oracle
+626,Palerra,Behavioral analytics based cloud security automation for risk management,USA,2016,Oracle
+627,Ravello Systems,Cloud Application Hypervisor,Israel,2016,Oracle
+628,goBalto,Cloud-based SaaS product for study startup,USA,2018,Oracle
+629,CrowdTwist,Customer loyalty and analytics,USA,2019,Oracle
+630,LogFire,Cloud based Inventory and Warehouse Management Systems,USA,2016,Oracle
+631,Datalogix,Aggregator of offline purchasing data,USA,2014,Oracle
+632,Opower,"Offering customer engagement, demand response management and home energy management platform",USA,2016,Oracle
+633,TOA Technologies,Field Service Management Software,USA,2014,Oracle
+634,GreenBytes,Platform offering desktop virtualization solution,USA,2014,Oracle
+635,Maxymiser,"A/B, Multivariate testing platform",USA,2015,Oracle
+636,BlueKai,Data management platform and third-party data marketplace,USA,2014,Oracle
+637,Textura,Project life cycle management for Construction.,USA,2016,Oracle
+638,Bitzer Mobile,Provider of infrastructure software for enterprises to use on-premise or as part of cloud computing environments,USA,2013,Oracle
+639,Compendium,Content marketing platform for businesses,USA,2013,Oracle
+640,Nor1,AI-enabled upselling solution for the hospitality industry,USA,2020,Oracle
+641,Nirvanix,Enterprise Cloud Storage Company,USA,2013,Oracle
+642,Collective Intellect,Social Media Monitoring platform,USA,2012,Oracle
+643,AddThis,Behavioral audience data and marketing platform,USA,2016,Oracle
+644,Vitrue,Social media presence and relationship management platform,USA,2012,Oracle
+645,Xsigo,I/O Virtualization Infrastructure,USA,2012,Oracle
+646,Ksplice,Zero Downtime update technology for Linux,USA,2011,Oracle
+647,Involver,Social Media Marketing and Campaign Marketing Platform,USA,2012,Oracle
+648,Nimbula,"Cloud OS startup, acquired by Oracle",USA,2013,Oracle
+649,EagleDream Technologies,IT services & solutions provider,New York,2020,PWC
+650,ISH,Limited information available,New Jersey,2011,PWC
+651,Avaleris,Provider of managed security services,Ottawa,2021,PWC
+652,Optimisa Research,Provider of market research and insights services,London,2017,PWC
+653,Outbox,Provider of IT consulting services,Warsaw,2016,PWC
+654,Entology,Limited information available,New Jersey,2008,PWC
+655,cDecisions,Provider of IT consulting services,Bournemouth,2017,PWC
+656,Rickards,Provider of business consulting and media auditing services,London,2016,PWC
+657,Tyconz,"Services for the implementation, support and advisory for SAP products",Doha,2020,PWC
+658,HLP Consulting,Limited information available,Colorado,2016,PWC
+659,Cinovate,Salesforce consulting and implementation services,Richmond Hill,2015,PWC
+660,Eilersconsulting,Tech-enabled platform offering supply chain solutions,Dusseldorf,2022,PWC
+661,ACTS,"Provider of cloud, DevOps, system integrator & managed services",Florida,2022,PWC
+662,Kusiri,Diversified regulatory solutions,London,2015,PWC
+663,ABSI,Provider of a range of consulting services,Brussels,2019,PWC
+664,Agilitude,Re-seller of hardware and software products,Midrand,2017,PWC
+665,ID-Consult,Provider of software development services for manufacturing companies,Munich,2022,PWC
+666,Advanced Pharmacy Concepts,Limited information available,Rhode Island,2014,PWC
+667,BGT Partners,Digital and interactive marketing firm,Florida,2013,PWC
+668,Ray Group International,"Provider of risk management, compliance and management consulting services",Florida,2012,PWC
+669,Rcamalta,Provider of training services for financial and IT professionals,Pieta,2017,PWC
+670,Pollen8,Provider of business consultancy services,Southampton,2022,PWC
+671,Terbium Labs,Deep web monitoring & indexing based enterprise data breach discovery,Maryland,2021,Deloitte
+672,Magnetic,Search retargeting platform,New York,2018,Deloitte
+673,Trufa,Predictive Performance Company,Heidelberg,2018,Deloitte
+674,Day1 Solutions,AWS cloud solutions provider,Virginia,2017,Deloitte
+675,Blab,Predictive Social Intelligence platform,Washington,2017,Deloitte
+676,Kneebone,Cross Marketing Performance Technology,Toronto,2013,Deloitte
+677,Oco,SaaS-based business intelligence and data analytic solutions,Massachusetts,2011,Deloitte
+678,Recombinant Data,Suite of healthcare data warehousing and clinical analytics solutions for healthcare providers,Massachusetts,2012,Deloitte
+679,dcarbon8,Carbon management and sustainability consultancy,London,2010,Deloitte
+680,Dataperformers,"Provider of accounting, auditing, tax, legal, consulting and financial services",Montreal,2021,Deloitte
+681,HashedIn,Provider of IT service suite solutions,Bangalore,2020,Deloitte
+682,Nubik,Provider of sales-force development and financial management services,Montreal,2022,Deloitte
+683,Zimbani,Provides a range of cyber security services,Melbourne,2020,Deloitte
+684,Soda Strategic,Provider of application development and digital marketing services for dental healthcare providers,Canberra,2021,Deloitte
+685,Synergence,Strategy consulting firm for sustainable development,Paris,2015,Deloitte
+686,QSpace,Limited information available,Pennsylvania,2018,Deloitte
+687,CloudQuest,Continuous security control and monitoring platform for cloud,California,2021,Deloitte
+688,Kaisen Consulting,Boutique leadership consultancy of business psychologists,Bristol,2015,Deloitte
+689,JKVine,Limited information available,Melbourne,2017,Deloitte
+690,KID NEON IMAGES,Provider of virtual tour services,Collingwood,2016,Deloitte
+691,Intellify,Provider of AI services,Sydney,2022,Deloitte
+692,API Talent,AWS consulting services,Wellington,2018,Deloitte
+693,Cloudtrek,Provider of cloud services,California,2018,Deloitte
+694,Ekulus,"Services related to cloud implementation, data integration and application development",Melbourne,2020,Deloitte
+695,Clear Carbon,Manufacturer of carbon components,Bristol,2010,Deloitte
+696,Spatial Access,Provides advisory services for marketing and media businesses,Mumbai,2020,Deloitte
+697,BIAS,Provider of IT consultancy and advisory services,Georgia,2021,Deloitte
+698,DNM Group,"Provider of cloud, data analytics and managed IT services",Dublin,2020,Deloitte
+699,Conduit Law,Provider of managed legal services,Toronto,2016,Deloitte
+700,Compliance Implementation Services,Compliance and revenue optimization consulting firm for the life sciences and healthcare industry,New York,2015,Deloitte
+701,Fusion Labs,Business development consulting firm,Sydney,2021,Deloitte
+702,Nesoi Solutions,Limited information available,,2017,Deloitte
+703,Stitch,Provider of employee engagement services,Bristol,2019,Deloitte
+704,cinderagency.com.au,Limited information available,Sydney,2016,Deloitte
+705,Visser Deloitte,Consultation services for the upstream oil and gas industry,Calgary,2014,Deloitte
+706,Global IO,Provider of strategy consulting services,Perth,2020,Deloitte
+707,Jet Financial,Financial analysis & reporting solutions for businesses,Sydney,2018,Deloitte
+708,Kemp Little,"Law firm specialized in technology, digital media and communications industries",London,2020,Deloitte
+709,Übermind,Software Development & Consulting,Washington,2012,Deloitte
+710,Frontier Advisory,"Research, strategy, and investment advisory firm",Johannesburg,2015,Deloitte
+711,The Explainers,Limited information available,Sydney,2016,Deloitte
+712,monitor.com,Limited information available,New York,2013,Deloitte
+713,Cahill Taxation Services,"Provider of accounting, tax, auditing and retirement services",Ennis,2022,Deloitte
+714,Sixtree,Limited information available,Melbourne,2016,Deloitte
+715,ReportSource,Limited information available,London,2010,Deloitte
+716,Integrity-Paahi Solutions,"Managed Security Services, Consulting, and Risk and Compliance.",Vancouver,2016,Deloitte
+717,CRG Partners,Limited information available,California,2012,Deloitte
+718,Web Decisions,Customer data management platform,North Carolina,2017,Deloitte
+719,Magia,Provider of digital marketing and IT suite services,Perth,2021,Deloitte
+720,ATADATA Solutions,On-premise movement from physical servers to virtual or to cloud.,Georgia,2018,Deloitte
+721,LICETUS,Provider of management consulting services,Leipheim,2015,Deloitte
+722,Oxala Consulting,Limited information available,Paris,2018,Deloitte
+723,Asset Performance Group,Asset reliability consultancy,Burlington,2015,Deloitte
+724,Strut Digital,Services related to the migration of data centers to the cloud,Edgecliff,2017,Deloitte
+725,Aggressor,Limited information available,California,2012,Deloitte
+726,Casey Quirk,Provider of business management consulting services,Connecticut,2016,Deloitte
+727,Bistech,Provider of managed IT and cloud services,Brisbane,2020,Deloitte
+728,Thomson Reuters Recap,Data-driven analysis and advice for biopharmaceutical business development,Connecticut,2008,Deloitte
+729,Sentek Global,"IT security, program management and consulting services",California,2021,Deloitte
+730,Groundswell Group,"Provider of risk, audit, tax and financial advisory services",Calgary,2021,Deloitte
+731,NeoData,"Provider of business intelligence, data management, digital transformation, and IT suite services",Melbourne,2019,Deloitte
+732,Etain,Provides application development services,Belfast,2022,Deloitte
+733,CloudTrek,"Provider of storage, virtual infrastructure, and IT development services",Brisbane,2018,Deloitte
+734,Emeritis,Provider of HR consulting services,Berchem,2019,Deloitte
+735,Well Placed Cactus,Limited information available,Brisbane,2017,Deloitte
+736,Blue Spurs,Services related to application development and,Fredericton,2019,Deloitte
+737,Clockwork,"Provider of industry-leading audit, consulting, tax, and advisory services",North York,2021,Deloitte
+738,innoWake,Limited information available,Texas,2017,Deloitte
+739,Intrasphere,Limited information available,New York,2011,Deloitte
+740,Cannabis Compliance,Provider of business consulting services catering to Cannabis sector,Mississauga,2019,Deloitte
+741,Tytho,Tax Automation and consulting,Rotterdam,2018,Deloitte
+742,Acne,"Offers designing, branding, film production, photography, and marketing services",Stockholm,2017,Deloitte
+743,System Dynamics,Limited information available,Dublin,2015,Deloitte
+744,Syncronic,Provider of management & business consulting services,Brondby Strand,2021,Deloitte
+745,Red Planet,Limited information available,Dublin,2017,Deloitte
+746,Solbourne,Limited information available,Colorado,2008,Deloitte
+747,ClearViewIP,"Intellectual Property strategy, management & transaction services company",Winchester,2019,Deloitte
+748,The Terrace Initiative,Limited information available,Sydney,2019,Deloitte
+749,Ouest Business Solutions,Provider of ERP software development services,Vancouver,2021,Deloitte
+750,Entrago,Digital clinical task management tool for providers,Fortitude Valley,2022,Deloitte
+751,GMK,Provider of personal loan and financial advisory services,Melbourne,2015,Deloitte
+752,Mexia,Limited information available,Melbourne,2018,Deloitte
+753,IE Discovery,Limited information available,Texas,2012,Deloitte
+754,root9B,"Vulnerability assessment, consulting and training solution",Colorado,2021,Deloitte
+755,Striven Consulting,"Provider of consulting, financial & risk advisory, and tax services",Kelowna,2022,Deloitte
+756,Odysseus,Provider of implementing portfolio management services,Amsterdam,2021,Deloitte
+757,Regester Larkin,Limited information available,London,2016,Deloitte
+758,NTC,"Provider of media technology consulting, design, and systems integration services",California,2022,Deloitte
+759,ClearCarbon,Limited information available,Virginia,2010,Deloitte
+760,Accelteam,Provider of business intelligence services,Kuala Lumpur,2020,Deloitte
+761,Herve Schauer Consultants,Information Security consulting services,Neuilly-sur-seine,2014,Deloitte
+762,I-Analysis,Limited information available,Singapore,2016,Deloitte
+763,SecurePath,"Provides IT governance, risk & compliance solutions",Kuala Lumpur,2020,Deloitte
+764,Focus IT,Provider of ERP consulting services,Makati,2021,Deloitte
+765,Rice Warner,Provider of investment consulting and actuarial services,Sydney,2021,Deloitte
+766,Dataweave,Provider of IT service suite solutions,Sydney,2015,Deloitte
+767,Plenary Networks,Limited information available,Melbourne,2016,Deloitte
+768,GLO Integration,"Provider of accounting, auditing, tax & financial advisory services",Amsterdam,2022,Deloitte
+769,Qspace,"Architectural research organisation offering exhibitions, publications, digital archiving, and design guidelines",New York,2018,Deloitte
+770,Bersin,HR research and consulting,California,2013,Deloitte
+771,Market Gravity,Provider of proposition design consulting and prototype & application development services,London,2017,Deloitte
+772,Presence of IT,Provider of consulting management services,Melbourne,2019,Deloitte
+773,TransientX,Cloud-based zero-trust network access control solutions provider,New Jersey,2021,Deloitte
+774,Vmware,Platform offering network virtualization software,USA,2022,Broadcom
+775,Mode,"SD-WAN, UC and Ultra Low Latency optimizing solution",California,2020,Vmware
+776,Datrium,IO processing & active data converging storage devices provider,California,2020,Vmware
+777,Avi Networks,Application Delivery Controller and WAF for on-premise and cloud applications,California,2019,Vmware
+778,Bitfusion,Provider of a cloud-based platform to test and optimize AI and ML models,Texas,2019,Vmware
+779,SaltStack,Cloud infrastructure orchestration and management platform,Utah,2020,Vmware
+780,Nyansa,Network analytics service based on full-stack user experience,California,2020,Vmware
+781,Heptio,Offers products built around Kubernetes,Washington,2018,Vmware
+782,Lastline,Network-based malware detection & IoC profiling platform,California,2020,Vmware
+783,CloudHealth Tech,Provider of cloud management and analytics solutions,Massachusetts,2018,Vmware
+784,VeloCloud,Cloud-based SD-WAN management software provider,California,2017,Vmware
+785,Wavefront,Cloud based real time analytics platform for data center infrastructure,California,2017,Vmware
+786,E8 Security,Network traffic analytics and threat detection solutions,California,2018,Vmware
+787,CloudCoreo,DevOps Platform as a service,Texas,2018,Vmware
+788,Veriflow,Breach and network outage prevention,California,2019,Vmware
+789,Pivotal Software,Enterprise platform as a service,California,2019,Vmware
+790,Carbon Black,Cloud endpoint protection platform,Texas,2019,Vmware
+791,Intrinsic,Stealth Mode: Server side web application security,California,2019,Vmware
+792,Arkin,IT operations monitoring for data centers,California,2016,Vmware
+793,CloudVelox,Hybrid cloud automation platform,California,2018,Vmware
+794,Spring,Open source Java development framework,California,2009,Vmware
+795,PLUMgrid,Network virtualization for SDN,California,2016,Vmware
+796,Apteligent,Cloud based platform offering application performance monitoring solutions,California,2017,Vmware
+797,Boxer,Inbox management app,Texas,2015,Vmware
+798,AetherPal,Mobile support management solution for enterprise & mobile operator,New Jersey,2019,Vmware
+799,CloudVolumes,"Instant workload management solutions for enterprise server, desktop, and cloud environments.",California,2014,Vmware
+800,AirWatch,Limited information available,Georgia,2014,Vmware
+801,Bitnami,Simple application deployment,Seville,2019,Vmware
+802,Socialcast,Social Business Communication Software,California,2011,Vmware
+803,Desktone,Desktop as a Service (DaaS),Chelmsford,2013,Vmware
+804,Virsto Software,Storage virtualization at VM layer,California,2013,Vmware
+805,Wanova,Virtualized desktop management,Netanya,2012,Vmware
+806,DynamicOps,Cloud automation & management solutions provider,Massachusetts,2012,Vmware
+807,WaveMaker,Platform offering baas integrated application development solution,California,2011,Vmware
+808,Nicira,Network Virtualization platform for SDDC,California,2012,Vmware
+809,PacketMotion,User activity monitoring & NAC based insider threat detection,California,2011,Vmware
+810,Continuent,Open Source Data Replication engine,California,2014,Vmware
+811,Integrien,Performance analytics and alerting,California,2010,Vmware
+812,NeoAccel,3rd Generation VPN,California,2011,Vmware
+813,TriCipher,User authentication software and SSO,California,2010,Vmware
+814,Dunes Technologies,provides virtual services and virtual desktop orchestratos,Lausanne,2007,Vmware
+815,B-hive Networks,Infrastructure Manager,California,2008,Vmware
+816,Akimbi Systems,Virtual infrastructure management solutions,California,2006,Vmware
+817,Blue Lane,Controlled code execution based data center security,California,2008,Vmware
+818,Octarine,Security solution for cloud-native applications,California,2020,Vmware
+819,Mesh7,Provides cloud-based API security,California,2021,Vmware
+820,Cetas,offers web hosting services,California,2012,Vmware
+821,Shavlik Technologies,Patch and configuration management solutions for SMBs,Minnesota,2011,Vmware
+822,Uhana,Software defined Mobile networks,California,2019,Vmware
+823,Immidio,User environment manager,Amsterdam,2015,Vmware
+824,Third Sky,"IT Service Management consulting, education and technology provider",California,2014,Vmware
+825,Zilker Technology,"IT consultancy for Cloud, eCommerce and managed service providers",Texas,2020,EY
+826,Fabernovel,Product and services for different businesses,Paris,2022,EY
+827,Entegreat,Digital platform offering gaming news,Alabama,2015,EY
+828,Applix,"Mobile solutions for brands, publishers and institutions in Italy",Cagliari,2017,EY
+829,Mycroft,"Consulting and deployment service for IAM, regulatory compliance solution",Texas,2015,EY
+830,Pangea3,Legal and intellectual property outsourcing company,New York,2019,EY
+831,Intuitive Company,User experience services to brands,Pennsylvania,2015,EY
+832,ENTG,"Provider of digital marketing, IT, and business consulting services",Zagreb,2019,EY
+833,ElevatedPrompt,Provider of cybersecurity solutions,Vancouver,2019,EY
+834,FreshWorks Studio,Mobile application development services,Victoria,2022,EY
+835,Spotmentor,Platform that connects students and teachers,Mumbai,2020,EY
+836,C3 Business Solutions,Information management and business intelligence solutions,Melbourne,2015,EY
+837,Seaton Partners,Provider of ERP consulting services,UK,2021,EY
+838,Seren,International design consultancy,London,2015,EY
+839,Q4 Associates,"Provider of digital transformation, consulting, tax and assurance services",Auckland,2022,EY
+840,Peak EPM,Private equity firm focused on multiple sectors,Edinburgh,2021,EY
+841,Parthenon,"Strategy services for investment strategy, corporate strategy",Massachusetts,2014,EY
+842,Axiom Forensics,Provider of forensic accounting and investigation services,Sydney,2022,EY
+843,Hacktics,Automated web vulnerability scanner and security testing services,Herzliya,2011,EY
+844,RPR Partners,Tax advisory service provider,California,2018,EY
+845,Greenwich Consulting,Consulting and advisory services provider,France,2013,EY
+846,Aleron Security,"Cyber security solution implementation, consultancy and professional services",Sydney,2019,EY
+847,Xynapse,Identity and access management solutions,Kuala Lumpur,2018,EY
+848,INTER-CULTURA,Provider of business management consulting services,Vicente Lopez,2020,EY
+849,Client Solutions,"Provider of BI, data analytics, software development, and other services",Dublin,2022,EY
+850,etventure,Business digitalization service provider,Berlin,2017,EY
+851,Aspect Security,Application Security Services Provider,Maryland,2017,EY
+852,Christensen Advisory,M&A and corporate finance advisory firm focused on multiple sectors,Wan Chai,2022,EY
+853,SuMO,Provider of IT operations management services,Toronto,2021,EY
+854,EY VODW,Provider of digital transformation services,Leusden,2018,EY
+855,Society Consulting,"Analytics, big data, and customer experience consulting services",Washington,2016,EY
+856,KALYDIA,"Provider of advisory, insurance, tax and transaction services",Levallois-perret,2020,EY
+857,Open Windows,SaaS-based modular procurement software suite,Hawthorn,2017,EY
+858,Blackdot,Provider of customer experience services,Australia,2022,EY
+859,TAO Leadership,Provider of strategy management consulting services,Arizona,2021,EY
+860,T-Plus,Provider of strategy business management services,Seoul,2022,EY
+861,Integrc,"SAP GRC consulting, implementation and support service",Amsterdam,2015,EY
+862,Riverview Law,Limited information available,Bromborough,2018,EY
+863,Lane4,"Provider of accounting, audit and tax consulting services",,2021,EY
+864,Sweeney Research,One of the largest Australian owned research consultancies,Sydney,2014,EY
+865,Innovalue Management Advisors,Consulting services for the financial sector,Hamburg,2016,EY
+866,Gensquared,Provider of data analytics services,Toronto,2022,EY
+867,E-STET,SaaS based eDiscovery solution,California,2017,EY
+868,Kling & Pathak,Limited information available,California,2019,EY
+869,NorthPoint Digital,Technology and design solutions for document and experience management,New York,2015,EY
+870,Tasman Consulting,HR integration advisory services during M&A,California,2016,EY
+871,BPM Specialists,Business Process Management technology services,Georgia,2014,EY
+872,CMA Strategy Consulting,"Consulting services for telecom, media and tech industries",Massachusetts,2021,EY
+873,Valitax,VAT verification and tax allocation platform,Rumst,2020,EY
+874,Citizen,Application development service provider,Oregon,2018,EY
+875,UMT Consulting Group,Limited information available,New York,2016,EY
+876,C Centric,CRM and sales enablement solutions for BFSI businesses,Bangalore,2019,EY
+877,DKM Economic Consultants,Economic research and advisory solutions provider,Dublin,2018,EY
+878,Adelphi Digital Consulting Group,"Provider of market research, content marketing, SMM, and website development services",Singapore,2018,EY
+879,SecureWorx,"Provider of cybersecurity, cloud management, and managed security services",Glen Waverley,2021,EY
+880,8th Man Consulting,Oracle enterprise performance management consulting solutions,Fourways,2014,EY
+881,IZAZI Solutions,Multiple banking software solutions provider,Johannesburg,2015,EY
+882,Pythagoras Communications,Provider of IT services suite,Maidenhead,2021,EY
+883,CFORS,Cloud-based Reporting Compliance solutions,Utrecht,2014,EY
+884,Cambria Solutions,Limited information available,California,2022,EY
+885,Splt,Enterprise carpooling,New York,2018,Robert Bosch
+886,Climatec,Provider of solutions for building automation,Arizona,2015,Robert Bosch
+887,Akustica,Fabless semiconductor company that develops MEMS microphones,Pennsylvania,2009,Robert Bosch
+888,Health Hero Network,Offers technology-based solutions for remote health monitoring and management.,California,2007,Robert Bosch
+889,sia Abrasives Industries,Limited information available,Frauenfeld,2008,Robert Bosch
+890,HC-CARGO,Supplier of automotive electrical components,Esbjerg,2007,Robert Bosch
+891,Health Hero Network,Offers technology-based services for remote health monitoring and management,California,2007,Robert Bosch
+892,Telex,Provider of Top-of-Line Communication Equipment,California,2006,Robert Bosch
+893,Aleo solar,Manufactures solar PV modules,Prenzlau,2014,Robert Bosch
+894,Symantec,Enterprise security solution suite,USA,2019,Broadcom
+895,Peter Norton Computing,"PC utilities like antivirus, spyware removal compression and online backup software",California,1990,Symantec
+896,Luminate Security,software-defined network security,Texas,2019,Symantec
+897,Javelin Networks,Deception & SDN based network security,Tel Aviv,2018,Symantec
+898,Skycure,Device protection against Malwares,Tel Aviv,2017,Symantec
+899,Appthority,Mobile App Risk Analysis,California,2018,Symantec
+900,FireGlass,Endpoint security solutions provider,Tel Aviv,2017,Symantec
+901,Watchful Software,Make data and access security products,Coimbra,2017,Symantec
+902,LifeLock,Cyber identity theft protection and prevention platform,Arizona,2016,Symantec
+903,Nukona,Mobile application management,California,2012,Symantec
+904,SurfEasy,Provider of SSL VPN based secure and private browsing,Toronto,2017,Symantec
+905,PasswordBank,Cloud-based secure authentication solutions provider,Barcelona,2013,Symantec
+906,Clearwell Systems,Limited information available,California,2011,Symantec
+907,GuardianEdge,Encryption & device control based endpoint data protection,California,2010,Symantec
+908,PGP Corporation,PGP based email & data encryption software,California,2010,Symantec
+909,LiveOffice,"Cloud-based email archiving, compliance, and hosting solution provider",California,2012,Symantec
+910,Mi5 Networks,Secure web gateway to detect web based malware,California,2009,Symantec
+911,Vontu,Policy based data loss prevention software,California,2007,Symantec
+912,Blue Coat,Enterprise security solution suite,California,2016,Symantec
+913,Revivio,Continuous data protection based data backup and recovery appliance,Massachusetts,2006,Symantec
+914,IMlogic,Instant messaging management & security solution for enterprise,California,2006,Symantec
+915,WholeSecurity,Behavior-based security and anti-phishing technology,Texas,2005,Symantec
+916,Sygate,NAC based endpoint security solution,California,2005,Symantec
+917,Relicore,Automated datacenter change and configuration management solution,Massachusetts,2006,Symantec
+918,SwapDrive,Enterprise storage and collaboration platform,District of Columbia,2008,Symantec
+919,Riptech,Managed network security service for threat detection in enterprise,Virginia,2002,Symantec
+920,SecurityFocus,Online community to discuss computer security related topics,California,2002,Symantec
+921,CTB,Decentralized venture contribution platform,California,2008,Symantec
+922,Brightmail,Anti spam and web filtering solution,California,2004,Symantec
+923,Skydesk,Provider of online data backup solutions for the small offices,California,2008,Symantec
+924,ATstake,Vulnerability assessment of website and security training and consulting,Massachusetts,2004,Symantec
+925,MessageLabs,Cloud based security solution for online messaging and web security services,Gloucester,2008,Symantec
+926,PowerQuest,Data storage management and recovery software,Utah,2003,Symantec
+927,Delrina,"PC fax software, web browser & other internet utility",Toronto,1995,Symantec
+928,Softscan,Managed email and messaging security services,California,2009,Symantec
+929,RuleSpace,Limited information available,California,2010,Symantec
+930,Odyssey Software,Mobile Device Management Software,New York,2012,Symantec
+931,4front Security,Security governance and business assessment software,Virginia,2007,Symantec
+932,NitroDesk,Security via containerization,Washington,2014,Symantec
+933,Axent Technologies,Information Security Solutions provider,Maryland,2000,Symantec
+934,Altiris,Provider of software development services,Utah,2007,Symantec
+935,Hacker Academy,Online courses in ethical hacking,Nevada,2015,Symantec
+936,Outlier Security,Agentless Endpoint Threat Detection & Response,Nevada,2017,Symantec
+937,Recourse Technologies,NIDS and honeypot based network threat detection,California,2002,Symantec
+938,Bindview,"Policy, configuration & compliance enforcement software for IT security compliance",Texas,2005,Symantec
+939,Kenna Security,Provider of cloud based risk and vulnerability assessment platform,California,2021,CISCO
+940,Epsagon,Platform for monitoring of micro services and serverless architectures,Tel Aviv,2021,CISCO
+941,IMImobile,Cloud-based technology provider for customer engagement,London,2020,CISCO
+942,Socio,Event management and attendee networking mobile apps,Indiana,2021,CISCO
+943,BabbleLabs,Provider of speech enhancement technologies for enterprises,California,2020,CISCO
+944,Archrock,Provider of natural gas compression solutions for midstream companies,Texas,2010,CISCO
+945,Voicea,Provider of an AI-based meeting and agenda management platform,California,2019,CISCO
+946,ThousandEyes,Cloud monitoring and troubleshooting solution,California,2020,CISCO
+947,replex,Platform for monitoring and providing metrics on the IT infrastructure,Duisburg,2021,CISCO
+948,Portshift,Cloud based platform offering container security solutions,Tel Aviv,2020,CISCO
+949,Banzai Cloud,Platform offering container deployment software,Budapest,2020,CISCO
+950,Sentryo,Cybersecurity & situation awareness solution for industrial networks & IoT,Lyon,2019,CISCO
+951,CloudCherry,Customer experience management software,Utah,2019,CISCO
+952,Duo,Provider of SSO and MFA based IAM solutions,Michigan,2018,CISCO
+953,Observable,Threat detection using dynamic endpoint modelling and analytics,Missouri,2017,CISCO
+954,Accompany,Contextual Lead intelligence application,California,2018,CISCO
+955,Sedona Systems,Real time network layer monitoring,California,2021,CISCO
+956,Viptela,Providing Secure Extensible Networks,California,2017,CISCO
+957,Skyport Systems,Provider of cloud infrastructure security solutions,California,2018,CISCO
+958,Springpath,Distributed file system storage for hyperconvergence,California,2017,CISCO
+959,Modcam,Platform for video content analysis through image processing,Lund,2020,CISCO
+960,AppDynamics,Cloud based application performance monitoring software provider,California,2017,CISCO
+961,Perspica,Machine learning enabled IT operation analytics application,California,2017,CISCO
+962,Piston Cloud,"Scalable Private Cloud OS, built on OpenStack",California,2015,CISCO
+963,1Mainstream,Cloud-based video content management platform provider,California,2016,CISCO
+964,WorkLife,Collaboration tool for for meetings,California,2016,CISCO
+965,MindMeld,Platform to develop intelligent conversational interfaces,California,2017,CISCO
+966,CloudLock,Cloud Data Security,Tel Aviv,2016,CISCO
+967,July Systems,Mobile proximity marketing & app development platform,California,2018,CISCO
+968,BroadSoft,Unified communication solutions for service providers and enterprises,Maryland,2017,CISCO
+969,Altiga Networks,VPN solutions for remote access applications,Massachusetts,2002,CISCO
+970,OpenDNS,Cloud-based web filtering and DNS solutions provider,California,2015,CISCO
+971,Team Metacloud,Private OpenStack as-a-Service Cloud,California,2014,CISCO
+972,Jasper,Provider of a network connectivity platform for mobile Internet of Things,California,2016,CISCO
+973,Embrane,Platform for virtual network services,California,2015,CISCO
+974,Luxtera,Manufacturer of transceivers for optical communication,California,2018,CISCO
+975,MaintenanceNet News,Provider of software development services,California,2015,CISCO
+976,Assemblage,Limited information available,Tennessee,2014,CISCO
+977,ParStream,Analytics for IoT,Cologne,2015,CISCO
+978,Synata,Cloud enabled search across enterprise applications,California,2016,CISCO
+979,Neohapsis,Security and GRC advisory and consulting service,Illinois,2014,CISCO
+980,Acacia,Provider of high-speed coherent optical interconnect products,Massachusetts,2019,CISCO
+981,Slido,Cloud-based audience engagement software provider for events,Bratislava,2020,CISCO
+982,Whiptail,All-Flash Storage Systems,New Jersey,2013,CISCO
+983,Cloupia,Offered cloud automation and management,California,2012,CISCO
+984,Ubiquisys,"Developer of multimode LTE, 3G and Wi-Fi small cells",Swindon,2013,CISCO
+985,Involvio,Platform helping students on college and university campuses to find the events happening around the campus,New York,2021,CISCO
+986,Tail-f Systems,Networking Software,Stockholm,2014,CISCO
+987,JouleX,Energy monitoring in data centers,Georgia,2013,CISCO
+988,Cognitive Security,Threat detection using AI based network behavior analysis,Prague,2013,CISCO
+989,Virtuata,Virtual machine & data security in multi-tenant data center,California,2012,CISCO
+990,Lightwire,Manufacturer of interconnects,California,2012,CISCO
+991,Intucell,Software platform for SON (Self Optimizing Network),Raanana,2013,CISCO
+992,BroadHop,Policy Management and Subscriber Analytics Solutions,Colorado,2012,CISCO
+993,BNI Video,Video distribution software for video service providers,California,2011,CISCO
+994,Memoir Systems,Memory solutions,California,2014,CISCO
+995,Versly,Provider of software development services,California,2011,CISCO
+996,SolveDirect,IT services management and collaboration platform,Vienna,2013,CISCO
+997,Truviso,Data analytics,California,2012,CISCO
+998,ClearAccess,Software for provisioning and management of residential and mobile devices.,Washington,2012,CISCO
+999,CoreOptics,Designer of ICs and Transponder Modules for high speed optical networking applications,California,2010,CISCO
+1000,ScanSafe,Cloud delivered web-proxy based website security,California,2009,CISCO
+1001,Inlet Technologies,Video encoding solutions provider,North Carolina,2011,CISCO
+1002,Rohati Systems,Policy based virtual infrastructure security,California,2010,CISCO
+1003,newScale,Cloud automation and management software,California,2011,CISCO
+1004,Navini Networks,Internet Access system based on WiMAX,Texas,2007,CISCO
+1005,Pure Digital,Provides video and sound graphic technology solutions,California,2009,CISCO
+1006,Cognio,Spectrum Intelligence Provider,Maryland,2007,CISCO
+1007,PostPath,Enterprise collaboration software,California,2008,CISCO
+1008,Lancope,Context aware security analytics using iterative threat intelligence,Georgia,2015,CISCO
+1009,Sourcefire,Enterprise threat management solutions,Maryland,2013,CISCO
+1010,NeoPath Networks,Develops Network File Management solutions,California,2007,CISCO
+1011,Pure Networks,Secure networking solution for home and small business,Washington,2008,CISCO
+1012,CXO Systems,Business risk intelligence software,California,2006,CISCO
+1013,Starent Networks,Multimedia core technology,Massachusetts,2009,CISCO
+1014,IronPort Systems,Appliance based email and web security gateway and management,California,2007,CISCO
+1015,Metreos Corporation,Converged telephony solutions provider,Texas,2006,CISCO
+1016,Greenfield Networks,Ethernet Switching Chip,California,2006,CISCO
+1017,Airespace,Enterprise networking equipment provider,California,2005,CISCO
+1018,Orative,Conferencing and collaboration software for mobile business users,California,2006,CISCO
+1019,Sheer Networks,Provider of network design and management services,California,2005,CISCO
+1020,Actona Technologies,Wide-Area File Storage Services,California,2004,CISCO
+1021,Protego Networks,SIEM appliance for security threat mitigation,California,2004,CISCO
+1022,Dynamic Soft,Session Initiation Protocol (SIP)-based solution for Telecom Providers,New Jersey,2004,CISCO
+1023,Topspin Communications,Server fabric switches for data centers,California,2005,CISCO
+1024,BroadWare,IP-based video surveillance management software,California,2007,CISCO
+1025,P-Cube,Traffic analysis and control software solutions provider,Tel Aviv,2004,CISCO
+1026,AXIOM Systems,Information technology consulting services and products to the healthcare industry for maintaining HIPAA compliance,Maryland,2011,CISCO
+1027,FineGround Networks,Provider of web application development services,Illinois,2005,CISCO
+1028,Okena,Network access control solution for HIDS & endpoint security,Massachusetts,2003,CISCO
+1029,Radiata,CMOS 5GHz WLAN chipsets,Sydney,2000,CISCO
+1030,WebEx,Cloud and AI-based platform for video conferencing,California,2007,CISCO
+1031,PixStream,Provider of video networking solutions,Waterloo,2000,CISCO
+1032,IPCell Technologies,Limited information available,Texas,2000,CISCO
+1033,Webline,Provider of software development services,California,1999,CISCO
+1034,InfoGear Technology,Provider of Internet appliances and software used to manage information appliances for internet access,California,2000,CISCO
+1035,Transmedia Communications,"Provider of business consulting services for investment bankers, PE, VC and non-profit institutions",Hong Kong,1999,CISCO
+1036,StratumOne Communications,Developer of network processors,California,1999,CISCO
+1037,Compatible Systems Corporation,VPN solutions provider,California,2000,CISCO
+1038,Cerent,Provider of optical equipment maker for routing telephone calls and internet traffic on and off fiber optic lines,California,1999,CISCO
+1039,Growth Networks,Internet switching fabric solutions,California,2000,CISCO
+1040,skystone,Offers construction management services,New York,1997,CISCO
+1041,GeoTel,Provider of telecommunications infrastructure data in a GIS and internet based spatial technologies,Florida,1999,CISCO
+1042,TGV Software,Cloud-based enterprise networking management software provider,California,1996,CISCO
+1043,Telebit,Provider of managed networking services,California,1996,CISCO
+1044,SyPixx Networks,Video surveillance software and hardware,Connecticut,2006,CISCO
+1045,Fibex Systems,Digital Loop Carrier,California,1999,CISCO
+1046,Monterey Networks,Designer of high-capacity telecommunications networking switches,Texas,1999,CISCO
+1047,American Internet Corporation,Provider of hosting services,Massachusetts,1998,CISCO
+1048,Portcullis Computer Security,IT Security services,Pinner,2015,CISCO
+1049,Riverhead Networks,"Distributed denial of service attack detection, alert and protection solution",California,2004,CISCO
+1050,AuroraNetics,Silicon technology for metropolitan fiber networks,California,2001,CISCO
+1051,Netiverse,Content acceleration solutions,California,2000,CISCO
+1052,Parc Technologies,Network Optimization Solutions,London,2004,CISCO
+1053,Netsolve,Real-time network monitoring solution,Texas,2004,CISCO
+1054,tazznet.com,Provider of software development services,,1999,CISCO
+1055,cocom.dk,Provider of broadband services,Soborg,1999,CISCO
+1056,ThreatGRID,Malware Analysis and Threat Intelligence,New York,2014,CISCO
+1057,Reactivity,"Application acceleration - XML manager, gateway and firewall solutions",California,2007,CISCO
+1058,Arroyo Video Solutions,Video on demand solutions provider for video delivery,California,2006,CISCO
+1059,Collaborate,Cloud-based team collaboration platform,Massachusetts,2013,CISCO
+1060,Tropo,Cloud Communications API,California,2015,CISCO
+1061,Audium,Speech self-service application development and management environments,California,2006,CISCO
+1062,telesend.com,VPN solutions provider,,1997,CISCO
+1063,Tandberg,Provider of video conferencing and telepresence products,Lysaker,2009,CISCO
+1064,ATL,Logistics and transportation services provider,Derby,2000,CISCO
+1065,Divitech,Digital service management solution provider,Hoersholm,2008,CISCO
+1066,Insieme Networks,Hardware based response to SDN & NFV,Pennsylvania,2013,CISCO
+1067,Five Across,Community management platform for websites,California,2007,CISCO
+1068,Richards-Zeta Building Intelligence,Provider of an energy management solution for smart buildings,California,2009,CISCO
+1069,Tivella,Digital signage solutions provider,California,2006,CISCO
+1070,Nuova Systems,Datacenter Switch solutions,California,2008,CISCO
+1071,42hertz,Limited information available,Texas,2019,CISCO
+1072,Precept.com,Limited information available,,1998,CISCO
+1073,Sipura Technology,VoIP telephone adapters provider,California,2005,CISCO
+1074,Summa,Manufacturer and seller of programmable switches,Ohio,1998,CISCO
+1075,DAGAZ Technologies,Provider of technology solution for increasing the data-carrying capacity of copper telephone wires,New Jersey,1997,CISCO
+1076,Lightspeed International,Voice signalling solutions provider,Virginia,1997,CISCO
+1077,Sightpath,technology to provide content delivery solutions,Massachusetts,2000,CISCO
+1078,Pari Networks,Network configuration and change management solutions,California,2011,CISCO
+1079,NDS Group,Provides video software and content security solutions to media companies,Jerusalem,2012,CISCO
+1080,Aironet,High speed Wireless LAN products,Ohio,1999,CISCO
+1081,Moto Development Group,Products and strategies development consultancy,California,2010,CISCO
+1082,Amteva Technologies,Middleware platform for integrating unified communications,Virginia,1999,CISCO
+1083,WheelGroup,Limited information available,Texas,1998,CISCO
+1084,Cmpute,On Demand AWS scalability,California,2017,CISCO
+1085,Sentient Networks,Provider of network design services,California,1999,CISCO
+1086,Combinet,Enterprise network equipment provider,California,1995,CISCO
+1087,Dashbase,Indexing and search engine for time series data,California,2020,CISCO
+1088,ThinkSmart,Provider of IT service suite solutions,Michigan,2012,CISCO
+1089,Ardent Communications,Wide Area Network (WAN) access solutions,Bristol,1997,CISCO
+1090,Acano,"Integrated platform for video, audio and web collaboration.",London,2015,CISCO
+1091,Selsius,Developer of IP based telephonic systems,Laeba Semiconductor,1998,CISCO
+1092,Laeba Semiconductor,Fabless company in network infrastructure space,Hadera,2016,CISCO
+1093,Arrowpoint Communications,Provider of intelligent switches,Massachusetts,2000,CISCO
+1094,TransMedia Communications,"Provider of equipment that brings voice, video and data together in a single computer network",,1999,CISCO
+1095,calista.com,Cybersecurity suite solutions provider,California,1999,CISCO
+1096,Pawaa,Encryption and key management based DLP solutions,Bangalore,2015,CISCO
+1097,Twingo Systems,SSL VPN based network security,California,2004,CISCO
+1098,ContainerX,Platform offering container orchestration software,California,2016,CISCO
+1099,Tandberg,Provider of managed network infrastructure services,,2009,CISCO
+1100,Stratacom,Provider of managed networking services,California,1996,CISCO
+1101,Latigent,Web-based business intelligence and analytics reporting solutions for call centers,Illinois,2007,CISCO
+1102,vCider,Virtual network overlay technology developer,California,2012,CISCO
+1103,Hammerhead Networks,Software solutions enabling IP services,Massachusetts,2002,CISCO
+1104,StrataCom,IT management services,North Dakota,1996,CISCO
+1105,NetSys Technologies,Network management and performance analysis tools,California,1996,CISCO
+1106,Exablaze,Network devices for ultra low latency environments,Sydney,2019,CISCO
+1107,V-bits,Provides software development services,California,1999,CISCO
+1108,DiviTech,Provider of network management services,Tirana,2008,CISCO
+1109,LineSider Technologies,Network Management software,Massachusetts,2010,CISCO
+1110,Fluidmesh,Wireless backhaul solutions provider,Illinois,2020,CISCO
+1111,IPmobile,Developer of IP Radio Access Network(IP-RAN),Texas,2000,CISCO
+1112,Jetcell,Wireless communication equipment for corporate needs,California,2000,CISCO
+1113,Securent,entitlement management solutions,California,2007,CISCO
+1114,KiSS Technology,Provider of networked entertainment products,California,2005,CISCO
+1115,Pipelinks.com,Develops high-bandwidth remote access equipment for networking systems,,1998,CISCO
+1116,Maxcomm Technologies,Provider of telemarketing services,California,1999,CISCO
+1117,Jabber,Presence and instant messaging system,Colorado,2008,CISCO
+1118,Singularity Networks,Real time network monitoring and analytics,Colorado,2019,CISCO
+1119,Cariden Technologies,Network Design and Traffic Management tool,California,2012,CISCO
+1120,NuSpeed Internet Systems,Connects SAN and IP Networks,Minnesota,2000,CISCO
+1121,Span Logic,Processors to improve packet processing speeds across network,California,2007,CISCO
+1122,BCN Systems,Networking software solution for routing applications,California,2004,CISCO
+1123,Jahi Networks,Enterprise network management solution provider,California,2004,CISCO
+1124,classdata.com,Limited information available,,1998,CISCO
+1125,Ensoft,Provider of software development services,Harpenden,2018,CISCO
+1126,Psionic,Intrusion detection system for network security,Texas,2002,CISCO
+1127,Nintendo,Consumer electronics and game development company,Washington,2021,Microsoft
+1128,Activision Blizzard,Video game developer and publisher,California,2022,Microsoft
+1129,Nuance,AI based conversational and customer engagement platform,London,2021,Microsoft
+1130,Ally,OKR-based performance management software,Washington,2021,Microsoft
+1131,CloudKnox Security,Cloud security platform for hybrid cloud environments,California,2016,Microsoft
+1132,RiskIQ,Cyber threat intelligence and digital threat management platform,California,2021,Microsoft
+1133,Clipchamp,Online video creation platform,Brisbane,2021,Microsoft
+1134,Two Hat,Provides social networks and community management solutions,Kelowna,2021,Microsoft
+1135,Minit,Provider of BI & process mining solutions,Bratislava,2022,Microsoft
+1136,ReFirm Labs,"Automated IoT firmware vulnerability discovery, assessment, and remediation",Maryland,2021,Microsoft
+1137,Suplari,AI-based data analysis platform,Washington,2021,Microsoft
+1138,CyberX,Provider of network monitoring and threat detection solutions,Massachusetts,2020,Microsoft
+1139,Affirmed Networks,Mobile network virtualization solution,North Carolina,2020,Microsoft
+1140,PromoteIQ,Software solution for on-site promotions,New York,2019,Microsoft
+1141,Softomotive,Back office automation for multiple verticals,London,2020,Microsoft
+1142,Clear Software,Robotic process automation platform,Indiana,2021,Microsoft
+1143,Bonsai,Provides platform to integrate AI into existing applications,California,2018,Microsoft
+1144,FSLogix,Policy based desktop virtualization,Georgia,2018,Microsoft
+1145,Smash,Platform to simplify hosting eSports tournaments,California,2020,Microsoft
+1146,Peer5,Serverless P2P CDN For Live Video Streaming,Tel Aviv,2021,Microsoft
+1147,inXile entertainment,Video game developer for PC and console devices,Newport,2018,Microsoft
+1148,ZeniMax,Video game developer and publisher,District of Columbia,2020,Microsoft
+1149,Avere,NAS optimisation solution,Pennsylvania,2018,Microsoft
+1150,Double Fine,Developer of PC and console-based casual games,California,2019,Microsoft
+1151,PlayFab,Backend platform for online games,Washington,2018,Microsoft
+1152,BlueTalon,Access Control Policy Engine,California,2019,Microsoft
+1153,Cloudyn,Cloud Computing Optimization,Tel Aviv,2017,Microsoft
+1154,Cycle Computing,Cluster management solutions provider,New York,2017,Microsoft
+1155,Hexadite,Automated cyber incidence response solution,Tel Aviv,2017,Microsoft
+1156,Maluuba,Deep Learning for machine reading comprehension,Waterloo,2017,Microsoft
+1157,Semantic Machines,Provider of AI-based Speech Recognition Interfaces,Massachusetts,2018,Microsoft
+1158,Howdy,"Bot which can schedule meetings, collect status updates from teams, etc.",Texas,2018,Microsoft
+1159,Citusdata,Provider of distributed relational databases,California,2019,Microsoft
+1160,Flipgrid,Video discussion forum,Minnesota,2018,Microsoft
+1161,XOXCO,Product design and development studio,Texas,2018,Microsoft
+1162,Genee,Smart meeting scheduling app,Pennsylvania,2016,Microsoft
+1163,GitHub,Provider of a cloud based open source platform for source code management,California,2018,Microsoft
+1164,AltspaceVR,Provider of a VR social platform,California,2017,Microsoft
+1165,Metanautix,Data integration,California,2015,Microsoft
+1166,Chalkup,LMS with student discussion portal,California,2018,Microsoft
+1167,Wand Labs,Mobile App for integrating different apps,California,2016,Microsoft
+1168,Adallom,Cloud security gateway platform,Tel Aviv,2015,Microsoft
+1169,MileIQ,Mileage tracking software for small business owners and self-employed individuals,California,2015,Microsoft
+1170,FantasySalesTeam,Incentive Contests Modeled on Fantasy Sports for the enterprise,Texas,2015,Microsoft
+1171,Metaswitch,SoftSwitch and VOIP solutions provider,London,2020,Microsoft
+1172,N-trig,Developer of single-chip controllers for pens and touchscreens,Texas,2015,Microsoft
+1173,Acompli,Provider of cloud app for managing multiple email accounts,California,2014,Microsoft
+1174,Tinder,Online proximity-based dating and matchmaking platform,Dublin,2021,Microsoft
+1175,VoloMetrix,People analytics solution for the enterprise,Washington,2015,Microsoft
+1176,Secure Islands,Data loss prevention using policy driven immunization by endpoint agents,Beit Dagan,2015,Microsoft
+1177,Xamarin,Provider of cross platform application development platform,California,2016,Microsoft
+1178,Sunrise,Smart calendar app,New York,2015,Microsoft
+1179,BlueStripe,Transaction & Application Monitoring,Pennsylvania,2015,Microsoft
+1180,TakeLessons,Marketplace for tutoring: in-person & online lessons,California,2021,Microsoft
+1181,Aorato,Active Directory protection through entity behavior analysis,Herzliya,2014,Microsoft
+1182,Wunderlist,Cloud-based task management application,Berlin,2015,Microsoft
+1183,SwiftKey,AI based keyboard application for predicting texts,London,2016,Microsoft
+1184,Apiphany,API Management and delivery platform,District of Columbia,2013,Microsoft
+1185,Mover,Cloud to Cloud data migration,Edmonton,2019,Microsoft
+1186,InMage Systems,Cloud-based disaster recovery and business continuity,California,2014,Microsoft
+1187,Simplygon,3D graphics optimization tool for game developers,Linkoping,2017,Microsoft
+1188,LinkedIn,Social platform for professionals and venture capital firm focused on pre-seed and seed-stage companies,California,2016,Microsoft
+1189,Revolution Analytics,Open Source Data Science,California,2015,Microsoft
+1190,Talko,Provider of collaborative voice communication solutions,Washington,2015,Microsoft
+1191,LiveLoop,Microsoft Powerpoint add-on for sharing presentations,California,2015,Microsoft
+1192,Orions Systems,Provider of AI development services,Washington,2020,Microsoft
+1193,Yammer,Social network for enterprises,California,2012,Microsoft
+1194,PandoNetworks,P2P media distribution company,New York,2013,Microsoft
+1195,Capptain,Mobile Analytics and Engagement platform,Paris,2014,Microsoft
+1196,StorSimple,Enterprise hybrid cloud storage provider,California,2012,Microsoft
+1197,VideoSurf,Video discovery company,California,2011,Microsoft
+1198,Skype,VoIP Software application,Luxembourg,2011,Microsoft
+1199,Canesta,Electronic perception technology using 3D CMOS image sensors using ToF principle,California,2010,Microsoft
+1200,Perceptive Pixel,Manufacturer of multi-touch interface technology-based displays,New York,2012,Microsoft
+1201,AVIcode,.NET application monitoring,Maryland,2010,Microsoft
+1202,DATAllegro,Data warehousing application provider,California,2008,Microsoft
+1203,Zoomix,Provider of database automation solutions,Massachusetts,2008,Microsoft
+1204,Parature,Multichannel Customer Service Helpdesk,Virginia,2014,Microsoft
+1205,Interactive Supercomputing,High-performance parallel computing product,Massachusetts,2009,Microsoft
+1206,Interactive Supercomputing,Parallel computing solution,Massachusetts,2009,Microsoft
+1207,Vivaty,Web-based social world platform,California,2010,Microsoft
+1208,YaData,Analytics Software for marketers,Tel Aviv,2008,Microsoft
+1209,Farecast,Airfare predictions using data analytics,Washington,2008,Microsoft
+1210,Calista Technologies,Desktop virtualization products,California,2008,Microsoft
+1211,Powerset,AI-enabled keyword based search-engine,California,2008,Microsoft
+1212,3DV Systems,3D video imaging technology developer,Yokneam Illit,2009,Microsoft
+1213,Kidaro,Desktop virtualization Solution,Washington,2008,Microsoft
+1214,Danger,Mobile devices hardware and software provider,California,2008,Microsoft
+1215,ScreenTonic,Mobile ad serving technology,Paris,2007,Microsoft
+1216,AdECN,"Real-time, auction-based, neutral exchange for online display advertising",California,2007,Microsoft
+1217,Opalis,"Software solution for IT process orchestration, integration, and automation",Mississauga,2009,Microsoft
+1218,Softricity,Application virtualization and software streaming solutions,Massachusetts,2006,Microsoft
+1219,Whale Communications,Application access control solutions provider,New Jersey,2006,Microsoft
+1220,Greenfield,Bioethanol and co product manufacturer,Toronto,2008,Microsoft
+1221,Assetmetrix,Asset management software,North Carolina,2006,Microsoft
+1222,Massive Incorporated,In-Game advertisements at scale,New York,2006,Microsoft
+1223,Parlano,Team collaboration and messaging platform,Illinois,2007,Microsoft
+1224,FrontBridge,"Coud-based secure email gateway for filtering, encryption, and archiving",California,2005,Microsoft
+1225,Musiwave,Provider of music services to mobile device makers,Paris,2007,Microsoft
+1226,XDegrees,Provider of network security services,California,2002,Microsoft
+1227,Musiwave,Mobile music entertainment services provider,Paris,2007,Microsoft
+1228,Sentillion,Offers identity and access management solutions,Massachusetts,2009,Microsoft
+1229,Sybari,Threat prevention solution for microsoft messaging & collaboration platform,New York,2005,Microsoft
+1230,Navic Networks,Real Time TV Advertising,Massachusetts,2008,Microsoft
+1231,PlaceWare,Web conferencing services,Oregon,2003,Microsoft
+1232,MongoMusic,Online-platform offering search engine for music,California,2000,Microsoft
+1233,LinkExchange,Advertising network for web,California,1998,Microsoft
+1234,WebTV Networks,IPTV streaming services provider,Washington,1997,Microsoft
+1235,Global Care Solutions,Healthcare information systems developer,Bangkok,2007,Microsoft
+1236,Movere,"Provides business intelligence, cyber security, and cloud services",Washington,2019,Microsoft
+1237,JClarity,Machine learning-based software performance analytics solution,London,2019,Microsoft
+1238,Prodiance,Enterprise risk management solution,California,2011,Microsoft
+1239,Intentional Software Corporation,Enterprise collaborative idea management solution,Washington,2017,Microsoft
+1240,Movial,Provides application development services,Helsinki,2020,Microsoft
+1241,Equivio,Review platform,Herzliya,2015,Microsoft
+1242,Onfolio Holdings,Provider of digital marketing services,Taipei,2006,Microsoft
+1243,Groove Networks,Software solution to collaborate with team members over a network,Massachusetts,2005,Microsoft
+1244,Pressplay,Indie video game development company,Copenhagen,2001,Microsoft
+1245,Obsidian Entertainment,Video game developer for PC and console devices,California,2018,Microsoft
+1246,maxsw.com,Data analysis solutions provider,,2000,Microsoft
+1247,Deis,Open-source tools for managing Kubernetes deployments.,California,2017,Microsoft
+1248,STNC,Mobile application development service,Cambridge,1999,Microsoft
+1249,The Marsden Group,Diversified conglomerate operating across multiple industries,Aberdeen,2021,Microsoft
+1250,Navision,Integrated business software solution for SMBs,Vedbaek,2002,Microsoft
+1251,MetricsHub,Active Cloud Monitoring,Washington,2013,Microsoft
+1252,Shadowfactor,Player communication solutions provider for the gaming industry,Washington,1999,Microsoft
+1253,Miburo,Service provider of IT associations,New York,2022,Microsoft
+1254,Mixer,Interactive game streaming platform,Washington,2016,Microsoft
+1255,FieldOne,Field service management software for enterprises,New Jersey,2015,Microsoft
+1256,Swng,Mobile app to create live photos,California,2017,Microsoft
+1257,Compulsion Games,Video game developer for PC and console devices,Montreal,2018,Microsoft
+1258,N Compass labs,Provider of enterprise collaboration services,,2001,Microsoft
+1259,The Green Button,Provider of managed cloud services,,2014,Microsoft
+1260,Engyro,Software solution to integrate and consolidate IT operations,Germany,2007,Microsoft
+1261,Alacris,Limited information available,Washington,2005,Microsoft
+1262,Xbox,Gaming console brand,New York,2000,Microsoft
+1263,Echo,Notifications sorting app,California,2015,Microsoft
+1264,DataSense,Provider of cloud-based data analytics solution for schools,Ohio,2019,Microsoft
+1265,aQuantive,Online ad serving technology and network,Washington,2007,Microsoft
+1266,Hellblade,Offers PC based gaming application,Cambridge,2018,Microsoft
+1267,FolderShare,File-synchronization solution provider,Texas,2005,Microsoft
+1268,Teleo,VoIP software and services provider,California,2005,Microsoft
+1269,Apptimum,PC relocator & application transfer service provider,Washington,2006,Microsoft
+1270,compare.net,Provider of software development services,San Jose,1999,Microsoft
+1271,Credentica,User identity verification solutions provider,Canada,2008,Microsoft
+1272,Visio,Cloud-based flowchart and diagram maker software,Washington,1999,Microsoft
+1273,String Bean Software,iSCSI based SAN solutions for Windows,Maryland,2006,Microsoft
+1274,GreenButton Limited,High performance compute platform,Wellington,2014,Microsoft
+1275,numinous.com,"Provider of a solution to create, store, retrieve and display images",Taiwan,1999,Microsoft
+1276,MultiMap,Provider of mapping solution,Washington,2007,Microsoft
+1277,Ninja Theory,Limited information available,Cambridge,2018,Microsoft
+1278,Lobe,Computer vision based tools for building custom deep learning models,California,2018,Microsoft
+1279,Vexcel,"Provider of aerial camera systems, mobile mapping platforms, and photogrammetry software",Colorado,2006,Microsoft
+1280,Glimpse,Real-time diagnostics and insights for web applications,Oregon,2015,Microsoft
+1281,NAVIC Group,IT and consulting services,Stavanger,2008,Microsoft
+1282,Interix,Provider of office software distribution services,Washington,1999,Microsoft
+1283,Datazen,BI Visualization solutions,Toronto,2015,Microsoft
+1284,HDCD,Provider of HDCD digital audio technology,Washington,2000,Microsoft
+1285,Seadragon.net,Provider of interface visual imaging and mapping technology,,2006,Microsoft
+1286,ProClarity,BI and analytics suite from Microsoft solutions,Idaho,2006,Microsoft
+1287,Motion Bridge,Blog focusing on rules and tactics for bridge game related topics,Colorado,2006,Microsoft
+1288,Groove,Algo-based playlist curation platform,Hawaii,2016,Microsoft
+1289,ActiveViews,Data discovery and exploration solutions provider,,2004,Microsoft
+1290,Sendit,Developer of software solutions for cellular providers,Stockholm,1999,Microsoft
+1291,Peach Networks,Provider of interactive streaming devices,Massachusetts,2000,Microsoft
+1292,Rare,Video game developer for console platforms,Hinckley,2002,Microsoft
+1293,Xandr,Platform offering TV ad exchange software,New York,2021,Microsoft
+1294,Pelican Security,Limited information available,,2003,Microsoft
+1295,Hotmail,Provider of email web service,California,1997,Microsoft
+1296,GIANT Company Software,Internet security products provider,New York,2004,Microsoft
+1297,Undead Labs,Video game developer for PC and console devices,Washington,2018,Microsoft
+1298,Stratature,Master data management vendor,Georgia,2007,Microsoft
+1299,dimensionx.com,Provider of website development services,California,1997,Microsoft
+1300,Medstory,Online platform offering search engine for medical sector,California,2007,Microsoft
+1301,Forerunner Software,SaaS-based Mobile Business Intelligence Solution,Washington,2018,Microsoft
+1302,Ensemble Studios,Video game developer focusing on core games,Texas,2001,Microsoft
+1303,Media-streams.com,Unified communication solutions provider,Zurich,2005,Microsoft
+1304,MobiComp,"Develops software that enables users to back-up, share and discover content on mobile phones",Washington,2008,Microsoft
+1305,NCompass,Provider of enterprise collaboration services,Ahmedabad,2001,Microsoft
+1306,media-streams.com,VoIP software applications provider,Zurich,2005,Microsoft
+1307,Minecraft,Minecraft game,Stockholm,2014,Microsoft
+1308,HockeyApp,Manage app distribution and collect live crash reports,Stuttgart,2014,Microsoft
+1309,Informatica,AI based enterprise data integration and preparation software,California,2015,Microsoft
+1310,PhoneFactor,Mobile device based MFA solution for enterprise,Kansas,2012,Microsoft
+1311,Solair,Provides IoT software modules to help customers connect their IoT devices,Italy,2016,Microsoft
+1312,Rosetta Biosoftware,Life Science Informatics Solutions,Washington,2009,Microsoft
+1313,zoomit.com,Provider of software development services,Norway,1999,Microsoft
+1314,Havok,Graphics middleware tool developer,Dublin,2015,Microsoft
+1315,Obsidian,Developer of industrial metal 3D printers,Connecticut,2018,Microsoft
+1316,Vicinity,Provider of location based technology solutions,California,2002,Microsoft
+1317,BigPark,Developer of core video games,Vancouver,2009,Microsoft
+1318,Teleo,Online platform for document collaboration,Singapore,2005,Microsoft
+1319,Playground Games,Video game developer focusing on casual games,Leamington Spa,2018,Microsoft
+1320,Rtos,Manufacturer of the real-time operating systems,California,2019,Microsoft
+1321,Netbreeze,Social Media Monitoring analytics tool,Zurich,2013,Microsoft
+1322,Netgamesusa.com,Score reporting solutions provider for online games,,2000,Microsoft
+1323,digitalanvil.com,Video game developer focusing on core games,Texas,2000,Microsoft
+1324,Adxstudio,Cloud-based application lifecycle management solution provider,Regina,2015,Microsoft
+1325,RAV Antivirus,Antivirus solution for the ISP and Linux users,Bucharest,2003,Microsoft
+1326,Kinvolk,Provider of open-source and cloud-based container infrastructure,Berlin,2021,Microsoft
+1327,Caligari,Providers of 3D modelling and animation solutions,California,2008,Microsoft
+1328,Solvera Solutions,Provides IT services suite solutions,Regina,2022,Accenture
+1329,Bit2win,Cloud-based apps for enterprises,Rome,2016,Accenture
+1330,ADVOCATE,Business management solutions firm,,2022,Accenture
+1331,CreativeDrive,Studio network for digital content services,New York,2020,Accenture
+1332,BRIDGEi2i,Big data analytics services for enterprises,Bangalore,2021,Accenture
+1333,OCTO Technology,A technology consulting firm in IT architecture,Paris,2016,Accenture
+1334,Infinity Works,Computer software company,Leeds,2021,Accenture
+1335,Byte Prophecy,Platform for text and numeric analysis,Ahmedabad,2020,Accenture
+1336,Myrtle,Management consulting solutions provider,Texas,2020,Accenture
+1337,Pillar Technology,Service for software testing,Ohio,2018,Accenture
+1338,iTrigger,"ERP, CRM, and marketing tools for various enterprises",Hangzhou,2020,Accenture
+1339,The Stable,Consumer brand agency representing clients across all channels of commerce,Minnesota,2022,Accenture
+1340,Glamit Argentina,End-to-End e-Commerce Solutions,Buenos Aires,2021,Accenture
+1341,Edenhouse,Provider of SAP technologies and SAP cloud innovations,Coleshill,2021,Accenture
+1342,Revolutionary Security,Provider of cybersecurity services,Pennsylvania,2020,Accenture
+1343,Phase One Consulting Group,IT consulting and salesforce implementation services,Virginia,2017,Accenture
+1344,LinkByNet,Managed services provider for IT and cloud related services,Paris,2021,Accenture
+1345,DayNine,Information technology service provider,California,2016,Accenture
+1346,N3,Outsourced Inside Sales and End-to-End Sales with both digital and tele-based expertise,Georgia,2020,Accenture
+1347,ThinkTank,Collaboration-as-a service software,Colorado,2021,Accenture
+1348,Cirrus,Provider of management consulting services,London,2021,Accenture
+1349,Mackevision,Developer of computer generated imagery (CGI),Stuttgart,2018,Accenture
+1350,Clarity Insights,Provider of data and analytics services,Illinois,2019,Accenture
+1351,Workforce Insight,Workforce management consulting and technology services,Colorado,2021,Accenture
+1352,Cloud Sherpas,Global cloud advisory and technology services company,Georgia,2015,Accenture
+1353,Adaptly,Social ad campaign manager,New York,2018,Accenture
+1354,BRIDGE Energy Group,Consultants for smart grid,Massachusetts,2019,Accenture
+1355,Karmarama,Integrated Communication Agency,London,2016,Accenture
+1356,ClearEdge,Training services,Massachusetts,2021,Accenture
+1357,Arismore,Limited information available,Saint-cloud,2017,Accenture
+1358,Mortgage Cadence,Provider of mortgage solutions for loan management,Colorado,2013,Accenture
+1359,Fjordnet,Consultancy firm for designing services,London,2013,Accenture
+1360,avVenta Worldwide,Digital production and marketing services,New York,2012,Accenture
+1361,Octagon Research,Provider of clinical and regulatory information management software,Pennsylvania,2012,Accenture
+1362,Origin Digital,Limited information available,New Jersey,2008,Accenture
+1363,S3Group Silicon,Product & Service provider for semiconductor & health industries,Dublin,2015,Accenture
+1364,Accenture Duck Creek,Software for insurance industry,Tennessee,2011,Accenture
+1365,NewsPage,Distributor management and mobility software solution,Singapore,2012,Accenture
+1366,Procurian,"Procurement, accounts payable, supplier relationship management solution",Pennsylvania,2013,Accenture
+1367,Epylon,eProcurement software for government agencies and education institutions,California,2001,Accenture
+1368,SALT Solutions,Provider of supply chain management & ERP services,Wurzburg,2020,Accenture
+1369,CORE COMPETE,Provider of IT service suite solutions,North Carolina,2021,Accenture
+1370,BCT Solutions,Technology consulting & services firm,Australia,2019,Accenture
+1371,Sutter Mills,Provider of IT and data -driven marketing services,Paris,2019,Accenture
+1372,Cygni,Provider of IT consulting services,Stockholm,2021,Accenture
+1373,The Monkeys,Advertising agency,Sydney,2017,Accenture
+1374,solid-serVision.com,Provider of service management solutions,Wilsdruff,2017,Accenture
+1375,Allen International,Provider of design consultancy services,London,2016,Accenture
+1376,INSITUM,Limited information available,Illinois,2019,Accenture
+1377,Nell'Armonia,Provider of ERP consulting & implementation and performance management services,Levallois-perret,2021,Accenture
+1378,ETHICA Consulting,Provider of business management consulting and IT services,Villorba,2021,Accenture
+1379,Altitude,Provider of product design and development consulting services,Massachusetts,2017,Accenture
+1380,Callisto Integration,Provider of IOT and manufacturing consulting services,Oakville,2020,Accenture
+1381,Boomerang Pharma Communications,Healthcare marketing & communications agency,Mulhouse,2015,Accenture
+1382,Blue Horseshoe,Provider of supply chain management solutions and services,Indiana,2021,Accenture
+1383,OPENMINDED,"Provider of cyber security, networking, consulting, and other services",Paris,2021,Accenture
+1384,BeesPath,Loan origination software,Texas,2017,Accenture
+1385,Clearhead,Digital consulting and optimization services provider,Texas,2017,Accenture
+1386,Context Information Security,Managed cybersecurity consulting service,London,2020,Accenture
+1387,SolutionsIQ,Services related to advisory and development of products based on agile model of delivery,Washington,2017,Accenture
+1388,Corliant,Technology consulting firm,Pennsylvania,2007,Accenture
+1389,Icon Integration,Provider of data analytics and supply chain management services,Sydney,2020,Accenture
+1390,PLM Systems,Provider of product development and consulting services,Turin,2020,Accenture
+1391,SILVEO,Provider of consulting services in supply chain & manufacturing areas,Neuilly-sur-seine,2019,Accenture
+1392,ARZ,"Provider of software development, consulting, and network services",Innsbruck,2022,Accenture
+1393,Mindtribe,Product engineering consultancy,California,2018,Accenture
+1394,Kolle Rebbe,Marketing and advertising company,Hamburg,2018,Accenture
+1395,NaviSys,Provides positioning and wireless communication solutions,Texas,2006,Accenture
+1396,maihiro,Field sales route optimization software,Ismaning,2020,Accenture
+1397,Ho Communication,Provider of digital marketing services,Huangpu,2018,Accenture
+1398,Homburg & Partner,Provider of management consulting and market research services,Mannheim,2021,Accenture
+1399,Founders Intelligence,Provider of business consulting services,London,2021,Accenture
+1400,Kates Kesler Organization Consulting,"Provider of organization design, surveys, and leadership strategy services",New York,2020,Accenture
+1401,T.A. Cook,Provider of management consulting and business management services,Berlin,2021,Accenture
+1402,DAZ Systems,Provider of a suite of IT services,California,2018,Accenture
+1403,Hytracc Consulting,Hydrocarbon accounting solutions,Stavanger,2014,Accenture
+1404,S3 TV Technology,Media delivery solutions provider for TV broadcasters,Dublin,2015,Accenture
+1405,Red Core Information Technology Solutions,Provider of IT services suite,Mandaluyong,2016,Accenture
+1406,Risk Control,Limited information available,,2010,Accenture
+1407,Chaotic Moon,Creative technology studio,Texas,2015,Accenture
+1408,Total Logistics,Supply Chain and operations Consultancy,Roermond,2015,Accenture
+1409,Industrie,"Provider of software development, cloud and DevOps services",Sydney,2021,Accenture
+1410,Pollux,"Provider of sensors, industrial ID readers for data matrix and surface inspection systems",Joinville,2021,Accenture
+1411,GRA,"Provider of supply chain management consulting, logistics, and procurement services",,2021,Accenture
+1412,LemonXL,Digital Marketing Agency,Hong Kong,2015,Accenture
+1413,Knowledge Rules,Management Consulting Services,Pennsylvania,2010,Accenture
+1414,Avieco,Provider of environmental reporting and carbon offsetting services,London,2022,Accenture
+1415,Genfour,Robotic process automation for back office tasks,Cwmbran,2017,Accenture
+1416,Acceria,Business Process and Methodologies,Boulogne-billancourt,2010,Accenture
+1417,AD.Dialeto,Full service marketing agency,Sao Paulo,2015,Accenture
+1418,Alfa Consulting,Provider of business strategy consulting services,Barcelona,2022,Accenture
+1419,OpusLine,Provider of healthcare management consulting services,Paris,2020,Accenture
+1420,Orbium,Provider of management consulting services,Zurich,2019,Accenture
+1421,King James,Provider of branding services,Cape Town,2021,Accenture
+1422,Business Net System,Provider of e-commerce support services,Minato,2021,Accenture
+1423,Zag,"Provider of ERP consulting, cloud and data analytics services",Auckland,2020,Accenture
+1424,Pixo Punch Limited,Digital ad agency providing online advertising solutions.,Hong Kong,2015,Accenture
+1425,Hagberg Consulting Group,Limited information available,Washington,2006,Accenture
+1426,Deja vu Security,IT security research and consulting services for application & embedded device security,Washington,2019,Accenture
+1427,openmind,Provider of business consulting management services,Monza,2021,Accenture
+1428,AppsPro,Provider of IT service suite solutions,Riyadh,2021,Accenture
+1429,Knowledgent,Limited information available,New Jersey,2018,Accenture
+1430,LabAnswer,Provider of IT service suite solutions,Texas,2017,Accenture
+1431,Enaxis Consulting,Provider of management consulting services,Texas,2018,Accenture
+1432,Javelin Group,"Retail, digital strategy and technology development services",London,2015,Accenture
+1433,Maglan,"Cyber simulation, forensics and vulnerability assessment service",Rishon Lezion,2016,Accenture
+1434,MOBGEN,Provider of application development services,Amsterdam,2016,Accenture
+1435,BIIT Consulting,"Provider of consulting, implementation, support & training services",Kuala Lumpur,2021,Accenture
+1436,Michael Eakes,Limited information available,California,2006,Accenture
+1437,Real Protect,Provider of IT security services,Rio De Janeiro,2021,Accenture
+1438,Sentelis,Provider of IT service suite solutions,Neuilly-sur-seine,2020,Accenture
+1439,H B Maynard,Provider of software consulting and training services,Pennsylvania,2007,Accenture
+1440,Headspring,Custom software services,Texas,2021,Accenture
+1441,Entropia,Provider of marketing services,Kuala Lumpur,2021,Accenture
+1442,Olikka,Provider of digital transformation services,Melbourne,2020,Accenture
+1443,Eclipse Automation,Designs and manufactures industrial automation products,Cambridge,2022,Accenture
+1444,Digiplug,Mobile-content repurposing and Distribution services,Paris,2007,Accenture
+1445,Tambourine,Provider of cloud application development services,Chiyoda-ku,2021,Accenture
+1446,XtremeEDA,Provider of system integration and hardware security services,Ottawa,2022,Accenture
+1447,Wolox,Software development services,Buenos Aires,2021,Accenture
+1448,Yesler,Provider of digital marketing and staffing services,Washington,2020,Accenture
+1449,ASM Research,IT and professional services to government agencies.,Virginia,2013,Accenture
+1450,New Energy Group,Provider of management consulting services,Milano,2016,Accenture
+1451,IDefense,Threat intelligence and security vunerability management solution,Virginia,2017,Accenture
+1452,Novetta,Provider of the cyber security & defense intelligence analytics solutions,Virginia,2021,Accenture
+1453,Droga5,Provider of marketing solutions,New York,2019,Accenture
+1454,Interactive Broadband Consulting Group,"Cable, media, wireless, and technology consulting",Pennsylvania,2017,Accenture
+1455,Random Walk,Software developement firm,New York,2006,Accenture
+1456,Nashco Consulting,Limited information available,Cochrane,2016,Accenture
+1457,SinnerSchrader,Digital agency,Hamburg,2017,Accenture
+1458,Enimbos,Cloud enabler company,Madrid,2020,Accenture
+1459,New Content,Provider of branding and marketing services,Sao Paulo,2018,Accenture
+1460,Enkitec,Oracle Database and Engineered Systems,Texas,2014,Accenture
+1461,Wire Stone,Digital Branding and Marketing Agency,California,2017,Accenture
+1462,Acquity Group,Digital Marketing service provider,Illinois,2013,Accenture
+1463,BCS Consulting,Provider of management consulting and business management services,London,2021,Accenture
+1464,Future State,Provider of diversified management consulting services,California,2021,Accenture
+1465,dgroup,Digital transformation consulting services,Hamburg,2016,Accenture
+1466,ESR Labs,"Provider of software development, AI, and cloud computing services",Munich,2020,Accenture
+1467,Realworld Systems,Provider of asset management services,Culemborg,2016,Accenture
+1468,CS Technology,Provider of IT service suite solutions,New York,2021,Accenture
+1469,Gekko,Cloud consulting and integration services,Levallois-perret,2020,Accenture
+1470,designaffairs,Provider of consulting services,Munich,2018,Accenture
+1471,Focus Group Europe,"Services for implementation, advisory and optimization of ITSM systems based on ServiceNow.",London,2017,Accenture
+1472,Brand Learning,Provider of management consulting services,London,2017,Accenture
+1473,?What If!,Innovation consulting solutions provider,London,2019,Accenture
+1474,Kogentix,Provides automated machine learning platform,Illinois,2018,Accenture
+1475,MAUD,Provider of branding services,Sydney,2017,Accenture
+1476,fable+,AI-based employee engagement and workplace culture management software for enterprises,Mannheim,2021,Accenture
+1477,Brightstep,"eCommerce, brand management and digital marketing solutions company",Stockholm,2015,Accenture
+1478,FusionX,Cyber risk assessment services & consulting,Virginia,2015,Accenture
+1479,Cloudworks,Offers cloud-based supply chain management solutions,Toronto,2021,Accenture
+1480,Certus Solutions,Provider of system integrator services,Auckland,2018,Accenture
+1481,Fairway Technologies,Provider of application development services,California,2019,Accenture
+1482,IMJ Corporation,Web integration and marketing services,Tokyo,2016,Accenture
+1483,SagaciousConsultants,Healthcare consulting for clinical revenue and patient care improvement,Kansas,2015,Accenture
+1484,End-to-End Analytics,Provider of management consulting services,California,2020,Accenture
+1485,Imaginea,Provider of IT services suite,California,2021,Accenture
+1486,Neo Metrics,Inappropriate content,Madrid,2012,Accenture
+1487,Certus Solutions,Oracle cloud service provider,Guildford,2018,Accenture
+1488,Defense Point Security,Managed cyber security and consulting service,Virginia,2016,Accenture
+1489,Kunstmaan,"Provider of design, branding, and advertising solutions",Leuven,2017,Accenture
+1490,PRION Group,Consulting and system integration company with specialisation in PLM and CAD solutions,Stuttgart,2013,Accenture
+1491,Wabion,"Provider of digital transformation, application development and data analytics services",Germany,2021,Accenture
+1492,Gevity,"Informatic & management consulting company focuses on healthcare, social services, and life science markets",Vancouver,2021,Accenture
+1493,Zestgroup,"Provider of project, contract & claim management services",Ijsselstein,2021,Accenture
+1494,Tenbu,Provider of cloud computing and managed services,Sao Paulo,2022,Accenture
+1495,Agilex Technologies,IT services company that serves federal agencies,Virginia,2015,Accenture
+1496,Vivere Brasil Credit Solutions,Mortgage origination software provider,Sao Paulo,2013,Accenture
+1497,Advoco,Provider of EAM consultancy services,California,2021,Accenture
+1498,PrimeQ,Provides ERP services,Adelaide,2018,Accenture
+1499,2nd Road,Provider of digital design services,Sydney,2016,Accenture
+1500,Pragsis Bidoop,"Provider of IT consulting, security, big data analytics, and marketing services",Madrid,2019,Accenture
+1501,PCO Innovation,PLM consulting and system integration services,Dublin,2013,Accenture
+1502,altima,Provider of e-commerce development services,Paris,2018,Accenture
+1503,umlaut,Provider of engineering consulting services,Aachen,2021,Accenture
+1504,ERGO,"Provider of digital transformation, data management and machine learning services",Buenos Aires,2022,Accenture
+1505,Enterprise System Partners,Provider of consulting services for biotechnology and pharmaceutical companies,Ireland,2019,Accenture
+1506,Tirvadis,Services related to the support and maintenance of IT infrastructure and applications,Switzerland,2021,Accenture
+1507,Rtap.io,Reusable components for building applications,USA,2018,Accenture
+1508,Root,Provider of enterprise collaboration services,USA,2021,Accenture
+1509,VanBerlo,Provider of management consulting services,Netherlands,2020,Accenture
+1510,akzente,Provider of business strategy services,Germany,2022,Accenture
+1511,Northstream,Provider of management consulting services,Sweden,2019,Accenture
+1512,Avenai,Provider of data analytics services,Canada,2020,Accenture
+1513,Xoomworks,Provider of web-based procurement solutions,UK,2021,Accenture
+1514,Romp,Provider of branding services,Indonesia,2022,Accenture
+1515,Intrepid,Mobile application development services,USA,2017,Accenture
+1516,Intrigo Systems,"Provider of advisory, support and supply chain services",USA,2018,Accenture
+1517,Kaplan,Marketing and advertising company,Sweden,2018,Accenture
+1518,HRC Retail Advisory,Retailer of consumer products,USA,2021,Accenture
+1519,Rothco,Provider of marketing and advertising services,Ireland,2018,Accenture
+1520,AFD.TECH,"Provider of IT consulting, software development, and other services",France,2021,Accenture
+1521,Analytics8,Provides data analytics solutions for business intelligence,USA,2019,Accenture
+1522,NIKE Group,Provider of regulatory and security consulting services,Italy,2020,Accenture
+1523,Hjaltelin Stahl,Provider of marketing services,Denmark,2019,Accenture
+1524,Arca,Provides network maintenance and operation services,Spain,2020,Accenture
+1525,YSC,Provider of strategy consulting services,New Zealand,2022,Accenture
+,,,,,
